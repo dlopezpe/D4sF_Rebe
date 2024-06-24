@@ -1,0 +1,10 @@
+Para lanzar el servidor en local
+    cd..
+    .\venv_prueba\Scripts\activate  
+    cd d4sfbackend 
+    python manage.py runserver 
+
+Para subir al server
+    En backend/settings.py cambiar:
+        - acceso a BBDD
+        - Variables al final del documento

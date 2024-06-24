@@ -1,0 +1,2475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>24P.RO.VEREA.FRESNERA</name>
+      <description><![CDATA[<b>Exploitation</b> : HNOS VEREA,CB <br/><b>Parcelle</b> : LA FRESNERA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.6000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.VEREA.FRESNERA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023701]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.76808824421756,38.8466064360966,0
+-6.76778876834085,38.8480725022461,0
+-6.76522183225479,38.8478503729528,0
+-6.76572095871597,38.8464176223518,0
+-6.76808824421756,38.8466064360966,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.CHICHO.CALAMONTE1</name>
+      <description><![CDATA[<b>Exploitation</b> : ROMÁN DURÁN, ISAAC <br/><b>Parcelle</b> : CALAMONTE1 <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.7600 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.AMA.CHICHO.CALAMONTE1 <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023727]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.40990789854103,38.8849602702531,0
+-6.41289552693009,38.8836281754479,0
+-6.4138296064503,38.8848048604794,0
+-6.410742152769,38.8862201869399,0
+-6.40990789854103,38.8849602702531,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.VE.VIVAS.DEPURADORA</name>
+      <description><![CDATA[<b>Exploitation</b> : A.VIVAS MASERO y J.VIVAS, C.B. <br/><b>Parcelle</b> : DEPURADORA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 5.4600 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.VE.VIVAS.DEPURADORA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 055728]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.90575399319776,38.9167257138436,0
+-6.90699496887709,38.9182951174602,0
+-6.90538350344528,38.919288155579,0
+-6.90502698454435,38.9191938452938,0
+-6.90424264296258,38.9185614083753,0
+-6.90246004845837,38.9183561425495,0
+-6.9023028902376,38.9177908950656,0
+-6.90398565944958,38.9176133659723,0
+-6.90575399319776,38.9167257138436,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.ROCIO.GRANDE</name>
+      <description><![CDATA[<b>Exploitation</b> : MONTERO CRESPILLO, ROCIO <br/><b>Parcelle</b> : LA GRANDE <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 6.7100 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.ROCIO.GRANDE <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 055632]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.77623649700803,38.9133558663622,0
+-6.77950934051777,38.9138219072429,0
+-6.77953073165182,38.9139162246682,0
+-6.77932395068933,38.9142602048028,0
+-6.77877491158203,38.915231107479,0
+-6.77836134965706,38.9160632992014,0
+-6.77570884903478,38.9155917250905,0
+-6.77579441357099,38.9152033675872,0
+-6.77623649700803,38.9133558663622,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : MORENO MORGADO, ALBERTO <br/><b>Parcelle</b> : PRIMO DIEGO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 1.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 055617]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.57897665442378,38.9008379296597,0
+-6.57897190083844,38.9008564266652,0
+-6.57894337932637,38.901226365762,0
+-6.57917868180093,38.9012374639051,0
+-6.57946152012893,38.9011209333161,0
+-6.57944963616557,38.9008416290612,0
+-6.57897665442378,38.9008379296597,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.57937357880005,38.9000998952115,0
+-6.57780727242902,38.9001553867901,0
+-6.57804970528159,38.9004587399867,0
+-6.57855358532812,38.900997003749,0
+-6.57878888780267,38.9012504117369,0
+-6.5788554379975,38.9013336477396,0
+-6.57889346668025,38.9013170005471,0
+-6.57893387215568,38.9005845202004,0
+-6.57896952404576,38.9005715722471,0
+-6.57939734672678,38.9005623237083,0
+-6.5794044771048,38.9005012833189,0
+-6.57937357880005,38.9000998952115,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.VE.AMADOR.BECERRA</name>
+      <description><![CDATA[<b>Exploitation</b> : FERNANDEZ RAMIRES, AMADOR <br/><b>Parcelle</b> : BECERRA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.7900 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.VE.AMADOR.BECERRA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 055729]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.92717046064816,38.9926522702386,0
+-6.92625777226201,38.9923585478744,0
+-6.92721324291627,38.9910007588416,0
+-6.9273558504766,38.9910894315735,0
+-6.92729880745247,38.991172562159,0
+-6.92759828332917,38.9912667767039,0
+-6.92892453364031,38.988867037733,0
+-6.92940226896744,38.9890499306338,0
+-6.92943079047951,38.9891496901989,0
+-6.92938087783339,38.9899366773938,0
+-6.92924540065107,38.9904576359347,0
+-6.92883896910411,38.9908677495354,0
+-6.92842540717913,38.9914552054181,0
+-6.92765532635331,38.9920925341163,0
+-6.92717046064816,38.9926522702386,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : REYES SANTOS ,LAUREANO <br/><b>Parcelle</b> : GORDINO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.3000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056601]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.69126407145718,38.8958243319126,0
+-6.68843331138449,38.8970951547016,0
+-6.68796270643538,38.8964569714269,0
+-6.6880126190815,38.896334883539,0
+-6.69025868815681,38.8953193261492,0
+-6.69126407145718,38.8958243319126,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.PEDROMANZANO.VEGAHORQUILLA</name>
+      <description><![CDATA[<b>Exploitation</b> : MANZANO LAGUNA, PEDRO MANUEL <br/><b>Parcelle</b> : VEGA HORQUILLA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 1.5000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.PEDROMANZANO.VEGAHORQUILLA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023260]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.74375725222372,38.8734814122405,0
+-6.7438404399597,38.873222353942,0
+-6.74679954656828,38.8741660617706,0
+-6.74666882298316,38.8743973607975,0
+-6.74375725222372,38.8734814122405,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : MORENO MORGADO, ALBERTO <br/><b>Parcelle</b> : CHALET CARRETERO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.5400 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056616]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.65848039290158,38.8832329106791,0
+-6.65943110997049,38.8834734309818,0
+-6.65930276316619,38.8838286594796,0
+-6.66024397306442,38.8840728780412,0
+-6.66023921947907,38.8841801859316,0
+-6.65923621297137,38.8860228961393,0
+-6.65853268234037,38.8859377921021,0
+-6.65828074231711,38.8856491776516,0
+-6.65817140985418,38.8854419665538,0
+-6.65818091702487,38.8852347548517,0
+-6.65848039290158,38.8832329106791,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : EXPLOTACIONES AGRICOLAS EL BUZO, S.L. <br/><b>Parcelle</b> : MAY <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 5.0600 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056621]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.67855832197269,38.8987144364046,0
+-6.67856782914338,38.898725534941,0
+-6.67855356838735,38.898832820697,0
+-6.67839194648563,38.8993063558905,0
+-6.67829687477874,38.8992989569267,0
+-6.67824458533995,38.8993655475676,0
+-6.67823032458392,38.8994284386698,0
+-6.67818754231582,38.8994617339371,0
+-6.67815902080375,38.8995468217719,0
+-6.67814951363306,38.8996356089678,0
+-6.67808771702358,38.8997317949721,0
+-6.67273042634025,38.8994099412931,0
+-6.67311546675316,38.8991916718749,0
+-6.67399963362725,38.898725534941,0
+-6.67466513557549,38.8984036767004,0
+-6.6756681420832,38.8984665686545,0
+-6.67636691912885,38.8985368595976,0
+-6.67656656971332,38.8985627562423,0
+-6.67855832197269,38.8987144364046,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : GONZAGRO C.B <br/><b>Parcelle</b> : FABRICA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.1100 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056598]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.73385414680557,38.9192201385406,0
+-6.73802541794543,38.9200800214809,0
+-6.73802541794543,38.9201854257699,0
+-6.73791133189716,38.9205903986854,0
+-6.7337828430254,38.9197527124289,0
+-6.73385414680557,38.9192201385406,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.VEREA.LAISLA</name>
+      <description><![CDATA[<b>Exploitation</b> : RODRIGUEZ LOPEZ, AGUSTIN <br/><b>Parcelle</b> : LA ISLA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 6.3800 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.VEREA.LAISLA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023317]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.74916668666318,38.9016977586475,0
+-6.75148405930845,38.9029092875436,0
+-6.7549660602575,38.9035196683167,0
+-6.75508489988033,38.9036213979351,0
+-6.75368259233089,38.9039820744996,0
+-6.7534567970475,38.9040930515357,0
+-6.75326665365096,38.904250268706,0
+-6.75067594987317,38.9039543302135,0
+-6.74858437251129,38.9030665073353,0
+-6.74916668666318,38.9016977586475,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.AMADOR.CARRETERA</name>
+      <description><![CDATA[<b>Exploitation</b> : FERNANDEZ RAMIRES, AMADOR <br/><b>Parcelle</b> : CARRETERA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 5.5700 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.AMADOR.CARRETERA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023705]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.928294426314,38.9521818717516,0
+-6.92786660363299,38.9544331415494,0
+-6.92777390871877,38.9544497762814,0
+-6.92599844459257,38.9540838112678,0
+-6.92528540679089,38.9538564684142,0
+-6.92539949283916,38.9528805493417,0
+-6.92619096479903,38.9518269852586,0
+-6.928294426314,38.9521818717516,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : SEMILLEROS MORÁN, S.L. <br/><b>Parcelle</b> : GRAVERA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 10.5200 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056614]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.61302511283686,38.8655699824561,0
+-6.61282199685925,38.8654321590119,0
+-6.61287903988347,38.8648991776598,0
+-6.61313573349208,38.862656170681,0
+-6.61330686256439,38.8625673372648,0
+-6.61364199033128,38.8624063264153,0
+-6.61409833452436,38.8623174926869,0
+-6.61481850270406,38.8622564194339,0
+-6.61482563308198,38.8622897321244,0
+-6.61491832799629,38.8623341490198,0
+-6.61498963177646,38.8622952842375,0
+-6.6151322393368,38.8622286588476,0
+-6.61605205810097,38.86221200249,0
+-6.61672944401257,38.8623119405756,0
+-6.6165725756962,38.8632724494506,0
+-6.6163668833341,38.8652294677133,0
+-6.61631934748065,38.8652701815184,0
+-6.61302511283686,38.8655699824561,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.VE.MARIOLA.CASASAISLADAS</name>
+      <description><![CDATA[<b>Exploitation</b> : PÉREZ MONTEJO, MARIOLA <br/><b>Parcelle</b> : CASAS AISLADAS <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.0500 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.VE.MARIOLA.CASASAISLADAS <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 055727]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.94835223005725,38.9311184036041,0
+-6.94741373454972,38.9304557984139,0
+-6.94720695358723,38.9301340840406,0
+-6.94732817001352,38.9298123682074,0
+-6.94775599269453,38.9296071349316,0
+-6.94803407743719,38.929396354192,0
+-6.94839772671605,38.9291411977219,0
+-6.94866155070267,38.9288860403339,0
+-6.94899396402056,38.9285483699939,0
+-6.94835223005725,38.9311184036041,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : LOS COMINOS S.C.L.EX.COM.de la TIERRA <br/><b>Parcelle</b> : CEMENTERIO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 6.6300 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056626]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.6183263911269,38.9212734655002,0
+-6.61828360885879,38.9213511305271,0
+-6.61565962974859,38.922865581559,0
+-6.61508206912923,38.9223274836125,0
+-6.61534589311585,38.9211236827087,0
+-6.61557406521239,38.9199032185457,0
+-6.61560971710247,38.9196646708254,0
+-6.61563110823653,38.9196091944964,0
+-6.61697161930369,38.9192707879504,0
+-6.61705005346188,38.9192652402883,0
+-6.6183263911269,38.9212734655002,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : GARCIA MAQUEDA, JUAN ANTONIO <br/><b>Parcelle</b> : SUEGRO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 1.6500 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056623]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.70069190055756,38.8822731115771,0
+-6.69957966138284,38.8816292923281,0
+-6.69858130866457,38.8810852833251,0
+-6.69852426564043,38.8803396426736,0
+-6.69862171414,38.880293386792,0
+-6.69868351074948,38.8803118891481,0
+-6.69935614307574,38.8807670455921,0
+-6.69969840122054,38.8809853716322,0
+-6.70020703485241,38.8813369121514,0
+-6.70035914958344,38.8814201714937,0
+-6.70099850681228,38.8817458070941,0
+-6.70100088360496,38.8818771710328,0
+-6.70095334775151,38.8820085347293,0
+-6.70078221867911,38.8822342576964,0
+-6.70069190055756,38.8822731115771,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : SEMILLEROS MORÁN, S.L. <br/><b>Parcelle</b> : CHALET <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056615]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.63699337692365,38.9017642971077,0
+-6.63784189190766,38.9004713613564,0
+-6.6373926780926,38.9002826906517,0
+-6.63796310833394,38.8988787428984,0
+-6.63854779933132,38.8988953906625,0
+-6.63861197273348,38.8987733069668,0
+-6.6394248358274,38.8990452203672,0
+-6.63884727520803,38.9000218803223,0
+-6.63842658290504,38.8998554051433,0
+-6.63811997665031,38.8999885853177,0
+-6.63795597795593,38.9002382974718,0
+-6.63800589060205,38.9002882397968,0
+-6.63853353857529,38.9005102052624,0
+-6.63843371328306,38.9007155227006,0
+-6.63769928434732,38.9018253364113,0
+-6.63699337692365,38.9017642971077,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : RUIZ FERNANDEZ, ELISABETH NAIOA <br/><b>Parcelle</b> : CASA AISLADA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.3300 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056605]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.6591593070205,38.896772012335,0
+-6.6610797554997,38.8951589625755,0
+-6.6620399797393,38.8956140239012,0
+-6.66012903843079,38.8971715694577,0
+-6.6600339667239,38.8972085653739,0
+-6.6591593070205,38.896772012335,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.BARRERA.GUADAJIRA</name>
+      <description><![CDATA[<b>Exploitation</b> : BARRERA LLERA, MANUEL <br/><b>Parcelle</b> : GUADAJIRA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 5.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.BARRERA.GUADAJIRA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023717]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.68394376002732,38.8631060061332,0
+-6.68213739759639,38.86306158972,0
+-6.68217542627914,38.8604557782478,0
+-6.68228000515672,38.8599671779653,0
+-6.6839627743687,38.8601078359665,0
+-6.68394376002732,38.8631060061332,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.RODAO.AGÜERO</name>
+      <description><![CDATA[<b>Exploitation</b> : EXPLOTACIONES AGRICOLAS RODAO, S.L. <br/><b>Parcelle</b> : AGÜERO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.9400 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.RODAO.AGÜERO <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023240]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.72895087958624,38.8692212882348,0
+-6.72800016260356,38.8688604351476,0
+-6.72769117958419,38.8687216450113,0
+-6.72993724845576,38.8662603882465,0
+-6.73101868902355,38.8671301654102,0
+-6.72895087958624,38.8692212882348,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.CHAMIZO.CHAMARRETA</name>
+      <description><![CDATA[<b>Exploitation</b> : DESARROLLO DE CALIDAD EXTREMADURA, SLU <br/><b>Parcelle</b> : CHAMARRETA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.0400 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.RO.CHAMIZO.CHAMARRETA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056412]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-5.7161405444818,39.0419185819507,0
+-5.71553208556058,39.0421401040027,0
+-5.71332642197111,39.0423025530663,0
+-5.7130221925105,39.0413278530821,0
+-5.71579828633861,39.04081096127,0
+-5.7161405444818,39.0419185819507,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : GARCIA MAQUEDA, JUAN ANTONIO <br/><b>Parcelle</b> : SUEGRO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 1.8000 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056604]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.70091076507523,38.8823879185227,0
+-6.70081807016101,38.8823157614151,0
+-6.70079192544162,38.8822547053431,0
+-6.70094641696531,38.8821214919138,0
+-6.70135760209762,38.8823305628791,0
+-6.70160954212088,38.8820659862445,0
+-6.70268147561608,38.8826376925615,0
+-6.70331132567424,38.8829485212497,0
+-6.70386749515955,38.8832482476257,0
+-6.70312355905313,38.8836145781458,0
+-6.70304512489494,38.8836201285934,0
+-6.70091076507523,38.8823879185227,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.SANTABARBARA.ENCOMIENDA</name>
+      <description><![CDATA[<b>Exploitation</b> : TIERRAS DE SANTA BARBARA,S.L. <br/><b>Parcelle</b> : LA ENCOMIENDA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 22.0000 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.RO.SANTABARBARA.ENCOMIENDA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 022821]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-7.10166601253092,38.8006965315586,0
+-7.10136178307022,38.8013485405168,0
+-7.10128572570516,38.8022524521583,0
+-7.09963147801306,38.8029785368114,0
+-7.09371801787226,38.798962751443,0
+-7.09617086789856,38.7966954368748,0
+-7.09617086789856,38.7967547139912,0
+-7.10166601253092,38.8006965315586,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.VE.MAXIMILIANO.CASAS AISLADAS</name>
+      <description><![CDATA[<b>Exploitation</b> : ROMERO RIVERO, MAXIMILIANO <br/><b>Parcelle</b> : CASAS AISLADAS <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.2500 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.VE.MAXIMILIANO.CASAS AISLADAS <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 055725]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.94889889232229,38.9315159184722,0
+-6.94835223005725,38.9311184036041,0
+-6.94899396402056,38.9285483699939,0
+-6.94937425081363,38.928234042946,0
+-6.949683233833,38.9274574642679,0
+-6.95001598477693,38.9274944443976,0
+-6.94889889232229,38.9315159184722,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.MADRIGUERA.VEGUITA</name>
+      <description><![CDATA[<b>Exploitation</b> : EXPLOTACIONES AGRARIAS LA MADRIGUERA, S.L. <br/><b>Parcelle</b> : VEGUITA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.2900 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.MADRIGUERA.VEGUITA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056620]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.56273832220111,38.8896243688479,0
+-6.56124569640291,38.8898463676447,0
+-6.56096048128224,38.8898093678927,0
+-6.56081312013656,38.8890434687125,0
+-6.56078459862449,38.8888991679425,0
+-6.56070854125898,38.888610565523,0
+-6.56069903408829,38.8885698650882,0
+-6.56115537828137,38.8885513648825,0
+-6.56127897150033,38.8885254645858,0
+-6.56133601452446,38.8884070631128,0
+-6.56250064293388,38.8883774627136,0
+-6.56273832220111,38.8896243688479,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.CHICHO.CALAMONTE2</name>
+      <description><![CDATA[<b>Exploitation</b> : BLAZQUEZ GONZALES, IVÁN <br/><b>Parcelle</b> : CALAMONTE2 <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.7600 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.AMA.CHICHO.CALAMONTE2 <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023728]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.40990789854103,38.8849602702531,0
+-6.40900947091091,38.8836836798967,0
+-6.41100597675563,38.8827345478526,0
+-6.41169049304525,38.8828622096255,0
+-6.41236074857883,38.882834457086,0
+-6.41289552693009,38.8836281754479,0
+-6.40990789854103,38.8849602702531,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : EXPLOT.AGRARIAS FUENTE-GUADIANA,S.L. <br/><b>Parcelle</b> : NAVE LOBON <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 1.8600 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056628]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.65419129031471,38.8611517591315,0
+-6.65325008041649,38.8611628635357,0
+-6.65332138419666,38.8601745647739,0
+-6.65342833986691,38.8600246530881,0
+-6.65377059801172,38.8599358163842,0
+-6.6542697244729,38.8598136657351,0
+-6.65441946241125,38.8583478415798,0
+-6.65461911299573,38.8583867085197,0
+-6.65450502694746,38.8611406547256,0
+-6.65419129031471,38.8611517591315,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : RAMOS FERNÁNDEZ, JAVIER <br/><b>Parcelle</b> : PELACHO ABAJO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.2900 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056600]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.68711890253706,38.8731109493587,0
+-6.68701194686681,38.8731109493587,0
+-6.68687171609914,38.873153509072,0
+-6.68760376824221,38.8739565875757,0
+-6.6878533314728,38.8742248951914,0
+-6.68836196510467,38.8738437130342,0
+-6.68736608897498,38.8732071712823,0
+-6.68721635103662,38.8731239023179,0
+-6.68711890253706,38.8731109493587,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.68657699380778,38.8729758683618,0
+-6.68566905900697,38.873062838348,0
+-6.6861895766022,38.8742341471604,0
+-6.68649618285692,38.8743359187362,0
+-6.68658650097847,38.8743229659986,0
+-6.68672673174613,38.8744099343364,0
+-6.68779153486332,38.8742156432218,0
+-6.68725200292671,38.873642018736,0
+-6.68671009419743,38.8730406332552,0
+-6.68657699380778,38.8729758683618,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.CHAVEZ.RIO</name>
+      <description><![CDATA[<b>Exploitation</b> : CHAVEZ VELARDIEZ,FRANCISCO <br/><b>Parcelle</b> : RIO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.6400 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.CHAVEZ.RIO <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 024197]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.70201626351367,38.8772352567899,0
+-6.70145296365034,38.8778958163464,0
+-6.70387729217607,38.8788838687603,0
+-6.70419102880881,38.8783898442709,0
+-6.70327834042266,38.8780678938787,0
+-6.70297173416793,38.8779402234913,0
+-6.70202339389169,38.8772519096269,0
+-6.70201626351367,38.8772352567899,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.70116061815165,38.8767190168959,0
+-6.70021227787541,38.877695983851,0
+-6.70108218399346,38.8780234868136,0
+-6.70146722440637,38.8776238219787,0
+-6.70152426743051,38.8775350072657,0
+-6.70151000667448,38.8774572943008,0
+-6.70163122310076,38.8773462756321,0
+-6.70175243952705,38.8773962340541,0
+-6.70190930784342,38.8772408077358,0
+-6.7011820092857,38.8767356698539,0
+-6.70116061815165,38.8767190168959,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.VE.GONZAGRO.BADENVIEJO2</name>
+      <description><![CDATA[<b>Exploitation</b> : GONZAGRO C.B <br/><b>Parcelle</b> : BADEN VIEJO 2 <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.2700 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.VE.GONZAGRO.BADENVIEJO2 <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 024165]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.77191013556883,38.9132782141053,0
+-6.77268021639465,38.9129231328966,0
+-6.77290125811317,38.9128953921026,0
+-6.77606001557464,38.9133447916342,0
+-6.77614558011084,38.9135001389587,0
+-6.77573914856388,38.9149648255871,0
+-6.77191013556883,38.9132782141053,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.VE.TORRESJULIO.POLLOS</name>
+      <description><![CDATA[<b>Exploitation</b> : TORRES VELAZQUEZ, JULIO ANGEL <br/><b>Parcelle</b> : POLLOS <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.2200 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.VE.TORRESJULIO.POLLOS <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023707]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-7.03148878007639,38.8559387574553,0
+-7.02997389597381,38.8570456702806,0
+-7.02956033404883,38.8577230748758,0
+-7.02807246183598,38.8569938467126,0
+-7.02948256351533,38.855887937958,0
+-7.02973946066959,38.8560572130269,0
+-7.03103718946866,38.8554279155427,0
+-7.03148878007639,38.8559387574553,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : GONZAGRO C.B <br/><b>Parcelle</b> : BASILIO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.8300 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056597]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.78935972403216,38.9331698515778,0
+-6.78951183876318,38.933240108156,0
+-6.78914581269165,38.9343789945581,0
+-6.7890554945701,38.9346193416248,0
+-6.78899369796062,38.9350408714343,0
+-6.78896042286321,38.9353625635512,0
+-6.78880830813219,38.9353551683472,0
+-6.7880952703305,38.9346674109395,0
+-6.78764843330811,38.9341275536789,0
+-6.78728716082192,38.9336061807797,0
+-6.78680229511678,38.9335729015284,0
+-6.7867832807754,38.9334139004453,0
+-6.78640774753318,38.9333843188091,0
+-6.78565668104873,38.9331365721217,0
+-6.78590386748665,38.9329184064117,0
+-6.78633644375301,38.9328259631125,0
+-6.78665018038575,38.9328222653773,0
+-6.78869897566926,38.9330700131627,0
+-6.78935972403216,38.9331698515778,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : GARCIA MAQUEDA, JUAN ANTONIO <br/><b>Parcelle</b> : CARRETERA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.0200 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056622]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.67353944793394,38.9055496363328,0
+-6.67391022759081,38.9049873623828,0
+-6.67702382599151,38.9055718312658,0
+-6.67687171126048,38.9057271956024,0
+-6.6764581493355,38.9061341005868,0
+-6.67353944793394,38.9055496363328,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.DANIELFERNANDEZ.PISTACANAL</name>
+      <description><![CDATA[<b>Exploitation</b> : FERNÁNDEZ CORTES, DANIEL <br/><b>Parcelle</b> : PISTA CANAL <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.DANIELFERNANDEZ.PISTACANAL <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023706]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.93843524014423,38.969832704089,0
+-6.93844712410651,38.9700636914565,0
+-6.93824410795508,38.9709239773334,0
+-6.93771711579232,38.9724544569474,0
+-6.93740337915958,38.9724322829393,0
+-6.93738945146328,38.971662103395,0
+-6.93725872787816,38.9708767609961,0
+-6.93746075523698,38.9697680274912,0
+-6.93843524014423,38.969832704089,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.SANTABARBARA.LAS MINAS</name>
+      <description><![CDATA[<b>Exploitation</b> : TIERRAS DE SANTA BARBARA,S.L. <br/><b>Parcelle</b> : LAS MINAS <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 5.0000 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.RO.SANTABARBARA.LAS MINAS <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 022822]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-7.10173106269544,38.8117441787037,0
+-7.10195685797883,38.8132442985301,0
+-7.10237279665875,38.8139480475614,0
+-7.10334728156599,38.8148092046787,0
+-7.10423857873725,38.8153370055073,0
+-7.10532001930504,38.8156147938461,0
+-7.10530813534276,38.8157629471839,0
+-7.10324032590544,38.8157629471839,0
+-7.10282438722552,38.8156333130297,0
+-7.10265801175355,38.8156240534385,0
+-7.10243221647016,38.8156610917969,0
+-7.10211134948851,38.8155870150609,0
+-7.10176671458229,38.8154758998118,0
+-7.10155280326119,38.8152907073451,0
+-7.10116063250583,38.8144110365529,0
+-7.10138642778922,38.8131702192806,0
+-7.10138642778922,38.8127905619153,0
+-7.10110121269442,38.8122164420568,0
+-7.10145773156292,38.8117904791711,0
+-7.10173106269544,38.8117441787037,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : SANCHEZ MORENO, JUAN DE DIOS <br/><b>Parcelle</b> : VEGUITA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.6100 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056619]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.56099147938289,38.8899370647535,0
+-6.56274079878969,38.889718766221,0
+-6.56298323164227,38.8910544467361,0
+-6.56254590179056,38.8912264924007,0
+-6.56198260192723,38.8914133372195,0
+-6.56186851587896,38.8913689384951,0
+-6.56172353152595,38.8914262868426,0
+-6.56145495395399,38.8913393393301,0
+-6.56126243374753,38.8912653413636,0
+-6.56099405576738,38.889939010339,0
+-6.56099147938289,38.8899370647535,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : EXPLOT.AGRARIAS FUENTE-GUADIANA,S.L. <br/><b>Parcelle</b> : NAVE LOBON <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056629]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.65509684832285,38.8611169839577,0
+-6.65450502694746,38.8611406547256,0
+-6.65461911299573,38.8583867085197,0
+-6.65506794405957,38.8585097557618,0
+-6.65509684832285,38.8611169839577,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : RAMOS FERNÁNDEZ, JAVIER <br/><b>Parcelle</b> : VIGARA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.5000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056624]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.66434116743101,38.8808527296711,0
+-6.66419380628532,38.8808194256801,0
+-6.66406070589568,38.8808194256801,0
+-6.66387056248189,38.8808453287863,0
+-6.66380401228707,38.8809119367277,0
+-6.66373746209225,38.8810636545851,0
+-6.66366140472673,38.8812190725422,0
+-6.66238269026904,38.8812190725422,0
+-6.66178373851563,38.8811191610374,0
+-6.66033389498553,38.8808601305559,0
+-6.66059534217948,38.8799794198563,0
+-6.66071893539844,38.87991281104,0
+-6.66481177238012,38.8799276130039,0
+-6.66434116743101,38.8808527296711,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : Mº PILAR RAMIREZ MICHARET <br/><b>Parcelle</b> : MESONERO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 5.4700 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056613]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.69367296870338,38.8970826300775,0
+-6.69252260104999,38.8987585278399,0
+-6.6924275293431,38.8988510155272,0
+-6.6922564002707,38.8988732125543,0
+-6.68986534684238,38.8980297206487,0
+-6.68956587096567,38.897445189679,0
+-6.68961340681912,38.8973896959824,0
+-6.6922136180026,38.896653475504,0
+-6.69367296870338,38.8970826300775,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : GARCIA MAQUEDA, JUAN ANTONIO <br/><b>Parcelle</b> : CARRETERA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.0200 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056603]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.67702382599151,38.9055718312658,0
+-6.67391022759081,38.9049873623828,0
+-6.67438558612527,38.9043474004282,0
+-6.67479439446491,38.9043991894714,0
+-6.67599229797174,38.9046988253374,0
+-6.67736608413632,38.9050280534095,0
+-6.67749443094062,38.9051353296428,0
+-6.67702382599151,38.9055718312658,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.MANZANOROMAN.MONTEDALAGE</name>
+      <description><![CDATA[<b>Exploitation</b> : MANZANO ROMÁN, MANUEL <br/><b>Parcelle</b> : MONTE DA LAGE <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 16.0000 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.RO.MANZANOROMAN.MONTEDALAGE <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023703]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-7.73539069504899,38.0184202010923,0
+-7.73447562995316,38.0181767799159,0
+-7.73390519976356,38.0178303714633,0
+-7.73346549315907,38.0172218121085,0
+-7.73325158183797,38.0164915342131,0
+-7.73335853749852,38.0159204143776,0
+-7.73369128844246,38.0153305646311,0
+-7.73440432617946,38.014759435749,0
+-7.73524808750159,38.0144691882187,0
+-7.73643648372993,38.0144130111444,0
+-7.73736343278804,38.0147032588972,0
+-7.73798139882678,38.0151807607647,0
+-7.73822771706561,38.0158576904172,0
+-7.73836168561985,38.0165102593779,0
+-7.738326033733,38.0170907371247,0
+-7.73806458656276,38.0175120487384,0
+-7.73755357618458,38.0180363442537,0
+-7.7369593780704,38.0183078529573,0
+-7.73640083184308,38.0185044620798,0
+-7.7358685507465,38.0184837743,0
+-7.73539069504899,38.0184202010923,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.ZARCO.PACHI</name>
+      <description><![CDATA[<b>Exploitation</b> : ZARCO CHAVEZ, JACINTO <br/><b>Parcelle</b> : PACHI <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.5000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.ZARCO.PACHI <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056664]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.67850340082074,38.8758314850638,0
+-6.67481461859335,38.8761645476489,0
+-6.67438204232699,38.8758351857685,0
+-6.6745531713994,38.8756353474779,0
+-6.67426795627872,38.8754059028232,0
+-6.67539455600539,38.8750395299822,0
+-6.67562748168727,38.8748915000167,0
+-6.67698225351047,38.8746509506634,0
+-6.67842258986988,38.8757167631461,0
+-6.67850340082074,38.8758314850638,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.DANIEL.GAMONAL</name>
+      <description><![CDATA[<b>Exploitation</b> : RAMOS FERNANDEZ, DANIEL <br/><b>Parcelle</b> : GAMONAL <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.5000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.DANIEL.GAMONAL <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056737]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.5751955880063,38.9132330588657,0
+-6.57558775879722,38.9111302851062,0
+-6.57823312904148,38.9113244752671,0
+-6.57811904299312,38.9119292355088,0
+-6.57643627378123,38.9126061170072,0
+-6.57637210037908,38.9127836586266,0
+-6.57652183831734,38.9129944887229,0
+-6.57651470793942,38.9132552513963,0
+-6.5751955880063,38.9132330588657,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.AGROALBALÁ. ALBALÁ</name>
+      <description><![CDATA[<b>Exploitation</b> : AGROALBALA <br/><b>Parcelle</b> : PIVOT 5 <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 28.7300 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.RO.AGROALBALÁ. ALBALÁ <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 022824]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-7.11403817254976,38.7956319288184,0
+-7.10734750178418,38.8000961648944,0
+-7.10668199989631,38.7994200641218,0
+-7.10619475744269,38.7989014071265,0
+-7.1059689621593,38.7987810040698,0
+-7.10463795838355,38.7977992484781,0
+-7.10613533763127,38.7965859280714,0
+-7.1077634404641,38.7954096358961,0
+-7.10825068291772,38.7949465234142,0
+-7.10851213008796,38.7947242283543,0
+-7.10888053291875,38.7943166856102,0
+-7.10909444423985,38.7939647150008,0
+-7.11041356405331,38.7926864913305,0
+-7.11213673858441,38.7945297196081,0
+-7.11326571500134,38.7949557856932,0
+-7.11403817254976,38.7956319288184,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.FUENTEGUADIANA.RIALTO</name>
+      <description><![CDATA[<b>Exploitation</b> : EXPLOT.AGRARIAS FUENTE-GUADIANA,S.L. <br/><b>Parcelle</b> : LOBON <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.FUENTEGUADIANA.RIALTO <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056592]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.6576794805401,38.8611002728641,0
+-6.65600007669655,38.8611058795464,0
+-6.65592370839649,38.8611090939056,0
+-6.65589545066074,38.8598525318732,0
+-6.65588631419957,38.8587194331568,0
+-6.65642076899955,38.8588460957562,0
+-6.65766521978406,38.8591736310952,0
+-6.6576794805401,38.8611002728641,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : MORENO MORGADO, ALBERTO <br/><b>Parcelle</b> : DEL PADRE <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056617]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.65467852421997,38.880806889033,0
+-6.65066649818915,38.8798891727555,0
+-6.65063797667708,38.8798151628618,0
+-6.65102777067534,38.879382203439,0
+-6.65529649031476,38.8803369309687,0
+-6.65525370804666,38.8804664472811,0
+-6.65467852421997,38.880806889033,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : REYES SANTOS ,LAUREANO <br/><b>Parcelle</b> : GORDINO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.3000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056591]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.69237641042781,38.8963515318995,0
+-6.69193432699077,38.8965679602344,0
+-6.68883261255343,38.897466963183,0
+-6.68859731007888,38.8973337782793,0
+-6.68843331138449,38.8970951547016,0
+-6.69126407145718,38.8958243319126,0
+-6.69237641042781,38.8963515318995,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.BUZO.NUEVA</name>
+      <description><![CDATA[<b>Exploitation</b> : EXPLOTACIONES AGRICOLAS EL BUZO, S.L. <br/><b>Parcelle</b> : NUEVA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.0100 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.BUZO.NUEVA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056602]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.71999161164544,38.918951500264,0
+-6.72002488674285,38.9189847863751,0
+-6.71997259730406,38.9190735492618,0
+-6.71966836784201,38.9194359965629,0
+-6.71928808101444,38.9199352831814,0
+-6.71913121269807,38.9201239016564,0
+-6.7190171266498,38.9201276000528,0
+-6.71645494414908,38.9192991544325,0
+-6.71652624792925,38.9191475182493,0
+-6.71713470685335,38.9180897543957,0
+-6.71723453214559,38.9180083872924,0
+-6.71999161164544,38.918951500264,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.VE.TORRESIVAN.POLLOS</name>
+      <description><![CDATA[<b>Exploitation</b> : IVÁN TORRES CASTAÑO <br/><b>Parcelle</b> : POLLOS <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.5500 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.VE.TORRESIVAN.POLLOS <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023708]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-7.03379426896851,38.8552021074408,0
+-7.03332366401939,38.8552909500583,0
+-7.03148878007639,38.8559387574553,0
+-7.03103718946866,38.8554279155427,0
+-7.02973946066959,38.8560572130269,0
+-7.02930688440323,38.8557721789746,0
+-7.03048101998334,38.854854139454,0
+-7.03292436285045,38.8542248313253,0
+-7.03379426896851,38.8552021074408,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : GONZAGRO C.B <br/><b>Parcelle</b> : FABRICA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.1000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056599]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.7381395039937,38.9195751882436,0
+-6.73811811285965,38.9198470219714,0
+-6.73807533059155,38.9199912598532,0
+-6.73802541794543,38.9200800214809,0
+-6.73385414680557,38.9192201385406,0
+-6.73393258096376,38.9187152991849,0
+-6.7381395039937,38.9195751882436,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.VE.TROTA.RESIDENCIA</name>
+      <description><![CDATA[<b>Exploitation</b> : MORENO MORGADO, ALBERTO <br/><b>Parcelle</b> : RESIDENCIA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.6800 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.VE.TROTA.RESIDENCIA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 024072]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.62689117850775,38.9053691360275,0
+-6.62633500902244,38.905618829258,0
+-6.62608544579185,38.9046699903092,0
+-6.62634926977848,38.9038931536582,0
+-6.62796073521028,38.903538025501,0
+-6.62835290600121,38.9045812094079,0
+-6.62753291252927,38.905041759128,0
+-6.62748299988316,38.9049918201459,0
+-6.62736178345687,38.9049696250316,0
+-6.62677709245949,38.9051693808106,0
+-6.62689117850775,38.9053691360275,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.SANTABARBARA.RANGER</name>
+      <description><![CDATA[<b>Exploitation</b> : TIERRAS DE SANTA BARBARA,S.L. <br/><b>Parcelle</b> : RANGER <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 10.0000 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.RO.SANTABARBARA.RANGER <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 022823]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-7.10353403128441,38.8066939807923,0
+-7.0934231552565,38.8100499989085,0
+-7.09306663635566,38.8090276525181,0
+-7.10282099348272,38.8052381754263,0
+-7.10353403128441,38.8066939807923,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.VIVAS.DEPURADORA</name>
+      <description><![CDATA[<b>Exploitation</b> : A.VIVAS MASERO y J.VIVAS, C.B. <br/><b>Parcelle</b> : DEPURADORA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.9900 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.VIVAS.DEPURADORA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023704]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.90199866077555,38.9173174831631,0
+-6.90138069468075,38.9174062481354,0
+-6.90132365165662,38.9173322773328,0
+-6.90006870512565,38.9177982921016,0
+-6.89997363341876,38.9179092475478,0
+-6.89989757605325,38.9183530675979,0
+-6.9007246999032,38.9185971674423,0
+-6.90096237917043,38.9185084039597,0
+-6.90120956560835,38.91826430381,0
+-6.90148527355833,38.91814595192,0
+-6.90166590980143,38.9181829369068,0
+-6.9018655603859,38.9183974494503,0
+-6.90234091892036,38.918323479681,0
+-6.90199866077555,38.9173174831631,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.90516454861503,38.9160303785875,0
+-6.90211274682382,38.9172583064532,0
+-6.9023028902376,38.9177908950656,0
+-6.90398565944958,38.9176133659723,0
+-6.90575399319776,38.9167257138436,0
+-6.90516454861503,38.9160303785875,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.ZARCO.CEMENTERIO</name>
+      <description><![CDATA[<b>Exploitation</b> : ZARCO PILO, PEDRO JOSE <br/><b>Parcelle</b> : CEMENTERIO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.ZARCO.CEMENTERIO <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056662]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.71470454301104,38.8917004158343,0
+-6.71496071301696,38.8908645400864,0
+-6.71577885436243,38.8906263639447,0
+-6.71534796785099,38.8899893879809,0
+-6.71750107820654,38.8896769544463,0
+-6.71883511209746,38.8906580141064,0
+-6.71470454301104,38.8917004158343,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.CHURRERO.DESARROLLO</name>
+      <description><![CDATA[<b>Exploitation</b> : DESARROLLO DE CALIDAD EXTREMADURA, SLU <br/><b>Parcelle</b> : CHURRERO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.7200 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.RO.CHURRERO.DESARROLLO <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023127]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-5.71511995593356,39.043791106001,0
+-5.71553827144388,39.044466728184,0
+-5.71400286337759,39.0450611226851,0
+-5.71124103029239,39.0446550151821,0
+-5.71191603941132,39.0440421576212,0
+-5.71360831579399,39.0434809821795,0
+-5.71382222713449,39.0438391012326,0
+-5.71397909545086,39.0439129399869,0
+-5.71457804720428,39.043983086732,0
+-5.71475392986203,39.0439757028674,0
+-5.71511995593356,39.043791106001,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : ZARCO PILO, PEDRO JOSE <br/><b>Parcelle</b> : CASA AISLADA 2 <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.5000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056612]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.67234095134687,38.8746939166726,0
+-6.67263567363823,38.8734578509832,0
+-6.67396192394937,38.8737465149536,0
+-6.67636248454838,38.874260926048,0
+-6.67543078182084,38.8749529696313,0
+-6.67484609082346,38.8751528098392,0
+-6.67386685224248,38.8755265835365,0
+-6.67274025251581,38.8751750142721,0
+-6.67284958497874,38.8747938372107,0
+-6.67234095134687,38.8746939166726,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.FUENTEGUADIANA.IBERICO</name>
+      <description><![CDATA[<b>Exploitation</b> : EXPLOT.AGRARIAS FUENTE-GUADIANA,S.L. <br/><b>Parcelle</b> : LOBON <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.FUENTEGUADIANA.IBERICO <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056593]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.6559237083965,38.8611090939056,0
+-6.65509684832285,38.8611169839577,0
+-6.65506794405956,38.8585097557618,0
+-6.65588631419957,38.8587194331568,0
+-6.6559237083965,38.8611090939056,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.ROCIO.GRANDE2</name>
+      <description><![CDATA[<b>Exploitation</b> : MONTERO CRESPILLO, ROCIO <br/><b>Parcelle</b> : LA GRANDE 2 <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.5000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.ROCIO.GRANDE2 <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 055633]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.77548910613904,38.916354357362,0
+-6.77530609310327,38.9164930544645,0
+-6.7759644646735,38.9169035963001,0
+-6.77625205658684,38.9171199619878,0
+-6.77661808265838,38.9173973529297,0
+-6.77732399008204,38.9177061802357,0
+-6.77745946726436,38.9176155663753,0
+-6.77748798877643,38.917506459736,0
+-6.77725139746111,38.9173700958194,0
+-6.77710057157085,38.9173085879462,0
+-6.77658608006877,38.9169866260475,0
+-6.77548910613904,38.916354357362,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.77565785841877,38.9157718265698,0
+-6.77553901878516,38.9162119613875,0
+-6.77555803312653,38.9163654531402,0
+-6.77610469544116,38.9166853806651,0
+-6.7766068942149,38.9169752451902,0
+-6.77710197789361,38.917283974867,0
+-6.77744520650833,38.9174491324521,0
+-6.77752839425186,38.9174472831837,0
+-6.77778508786047,38.9170718807809,0
+-6.7777827110678,38.9170681822252,0
+-6.77672266153595,38.9164153841203,0
+-6.77565785841877,38.9157718265698,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.77570884903478,38.9155917250905,0
+-6.77566974238213,38.9157366896393,0
+-6.77779221823848,38.9170201009833,0
+-6.77836134965706,38.9160632992014,0
+-6.77570884903478,38.9155917250905,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : RAMOS FERNANDEZ, DANIEL <br/><b>Parcelle</b> : TORREMAYOR <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.0200 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056590]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.56006932047928,38.8978833245849,0
+-6.56195649386108,38.8973616853435,0
+-6.56242234522484,38.8977316426474,0
+-6.56261724222397,38.8981903870275,0
+-6.56261724222397,38.8983346689216,0
+-6.56248889541967,38.898434556215,0
+-6.56139557079042,38.8989487885758,0
+-6.56022618879565,38.899455618266,0
+-6.56025946389307,38.8992262505332,0
+-6.56024520313703,38.8988045079296,0
+-6.56042108579478,38.8987675128448,0
+-6.56042108579478,38.8986750250487,0
+-6.56046862164823,38.8986047342431,0
+-6.56045436089219,38.8985640395343,0
+-6.56020717445428,38.8986454289285,0
+-6.56006932047928,38.8978833245849,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.MANZANO.VEGAHORQUILLA</name>
+      <description><![CDATA[<b>Exploitation</b> : MANZANO LAGUNA, JOSE <br/><b>Parcelle</b> : VEGA HORQUILLA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 6.0200 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.MANZANO.VEGAHORQUILLA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023262]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.7438404399597,38.873222353942,0
+-6.74426826260191,38.8719733096069,0
+-6.74883170411875,38.8728245125731,0
+-6.7484395333634,38.8739347619916,0
+-6.74719171732363,38.8735461766676,0
+-6.74679954656828,38.8741660617706,0
+-6.7438404399597,38.873222353942,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : LOS COMINOS S.C.L.EX.COM.de la TIERRA <br/><b>Parcelle</b> : VALDELOBOS <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.5600 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056625]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.69510313122789,38.9008384795588,0
+-6.69386244545296,38.9034465097463,0
+-6.69366754845383,38.9034835023932,0
+-6.69295451065214,38.9035204950209,0
+-6.69282616384784,38.9034539082772,0
+-6.69328726162626,38.9019445920038,0
+-6.693738852234,38.9005499256523,0
+-6.69383392394089,38.900468538441,0
+-6.69448991871844,38.9006350121818,0
+-6.69510313122789,38.9008384795588,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.VE.NUÑEZ.VAQUERIA</name>
+      <description><![CDATA[<b>Exploitation</b> : NUÑEZ QUINTANILLA, JUAN ANTONIO <br/><b>Parcelle</b> : VAQUERIA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.VE.NUÑEZ.VAQUERIA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023719]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.92935916054145,38.9287045649069,0
+-6.92715587373424,38.9283939364881,0
+-6.92582962342311,38.9259976143931,0
+-6.92584388417914,38.9259421430157,0
+-6.9279875226941,38.925810296006,0
+-6.92764801407858,38.9266440303688,0
+-6.92820264816543,38.9275481593568,0
+-6.92935916054145,38.9287045649069,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.BARROSO.ESPARRÁGOS</name>
+      <description><![CDATA[<b>Exploitation</b> : EXPLOTACIONES AGROPECUARIAS M&M <br/><b>Parcelle</b> : ESPARRAGOS <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.7000 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.RO.BARROSO.ESPARRÁGOS <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 022820]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.64121677973676,38.8863188587011,0
+-6.64086739121393,38.8864243131226,0
+-6.64086739121393,38.8859525421246,0
+-6.64058217609326,38.8859580923895,0
+-6.64056791533722,38.8865186669466,0
+-6.63965522695107,38.8868072778648,0
+-6.63950548901271,38.8865797193537,0
+-6.63945557636659,38.8864132126645,0
+-6.63946270674461,38.88384340994,0
+-6.64137364805313,38.8837601534373,0
+-6.64121677973676,38.8863188587011,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.VEREA.LASLEONAS</name>
+      <description><![CDATA[<b>Exploitation</b> : RODRIGUEZ LOPEZ, JUAN PEDRO <br/><b>Parcelle</b> : LAS LEONAS <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 4.3800 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.VEREA.LASLEONAS <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023334]]></description>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.77876267998494,38.8795806102275,0
+-6.77843468259616,38.8796250163195,0
+-6.77822077125566,38.8798692493299,0
+-6.77790703462292,38.8799247567151,0
+-6.77754338534406,38.8797249299252,0
+-6.77687312981047,38.8798359448772,0
+-6.77775729668456,38.8807740143028,0
+-6.77878407111899,38.8814400915831,0
+-6.77919763304397,38.8814955977413,0
+-6.77977519366333,38.8815178001925,0
+-6.77876267998494,38.8795806102275,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>true</extrude>
+          <altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>-6.78110857435249,38.8791754033551,0
+-6.78078057696371,38.879236462073,0
+-6.78061657826932,38.8793807824691,0
+-6.78040979730683,38.879269766806,0
+-6.77986788857755,38.8793419270068,0
+-6.78076631620768,38.8813512816398,0
+-6.78113709586455,38.8813401803891,0
+-6.78154352741151,38.8813124272551,0
+-6.78109431359645,38.8792198097004,0
+-6.78110857435249,38.8791754033551,0</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : RUIZ FERNANDEZ, ELISABETH NAIOA <br/><b>Parcelle</b> : CASA AISLADA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.3300 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056618]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.65860789112052,38.8959765910004,0
+-6.65945402931186,38.8952958512484,0
+-6.65966794065236,38.8944597163195,0
+-6.6610797554997,38.8951589625755,0
+-6.6591593070205,38.896772012335,0
+-6.65866968773001,38.8965278374311,0
+-6.65900719228947,38.8961837713688,0
+-6.65860789112052,38.8959765910004,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.AMA.MANZANO.VEGAHORQUILLA</name>
+      <description><![CDATA[<b>Exploitation</b> : MANZANO LAGUNA, PEDRO MANUEL <br/><b>Parcelle</b> : VEGA HORQUILLA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 3.0000 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.AMA.MANZANO.VEGAHORQUILLA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023261]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.74599143713301,38.8756186071772,0
+-6.74344826920435,38.8744806282622,0
+-6.74365029656317,38.8737682256841,0
+-6.7436978324123,38.8735831848851,0
+-6.74375725222372,38.8734814122405,0
+-6.74666882298316,38.8743973607975,0
+-6.74599143713301,38.8756186071772,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.VEREA.LASLEONAS</name>
+      <description><![CDATA[<b>Exploitation</b> : RODRIGUEZ LOPEZ, JUAN PEDRO <br/><b>Parcelle</b> : LAS LEONAS <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.1600 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.VEREA.LASLEONAS <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 023702]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.78076631620768,38.8813512816398,0
+-6.77977519366333,38.8815178001925,0
+-6.77876267998494,38.8795806102275,0
+-6.77986788857755,38.8793419270068,0
+-6.78076631620768,38.8813512816398,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name />
+      <description><![CDATA[<b>Exploitation</b> : MORENO MORGADO, ALBERTO <br/><b>Parcelle</b> : CASA VIEJA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 1.9100 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : ? <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056595]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.65940456263328,38.9262513726255,0
+-6.66065713237158,38.9266193303486,0
+-6.66034814932418,38.9270298135962,0
+-6.66002015193541,38.9274476904986,0
+-6.65999400721601,38.9275382918028,0
+-6.65997023928929,38.9275660268733,0
+-6.65923818714623,38.9277398330656,0
+-6.65908369562253,38.9277453800644,0
+-6.65891969692814,38.9276899100536,0
+-6.65898149353762,38.9273644851166,0
+-6.65912647789063,38.9264159368685,0
+-6.65936415715786,38.926458464644,0
+-6.65940456263328,38.9262513726255,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.JUANDEDIOS.VEGUITA</name>
+      <description><![CDATA[<b>Exploitation</b> : EXPLOTACIONES AGRARIAS LA MADRIGUERA, S.L. <br/><b>Parcelle</b> : AUTOVIA <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.0700 Ha</font><br/><i>Du 1/3/2024 au 28/2/2025</i> <br/><b>Crop number</b> : 24P.RO.JUANDEDIOS.VEGUITA <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056596]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-6.60557207864619,38.8559087568628,0
+-6.60559109298757,38.8559069059925,0
+-6.60561248412162,38.8559439233964,0
+-6.60579312036472,38.8564973312872,0
+-6.6057598452673,38.856565812901,0
+-6.60555544109749,38.8566120842239,0
+-6.60537955843974,38.8566083825191,0
+-6.60528448673285,38.8565584094865,0
+-6.60507770577036,38.856602829962,0
+-6.60499214123416,38.8566453995579,0
+-6.60514900955053,38.8569470877059,0
+-6.60499927161217,38.8569822537254,0
+-6.60430762494454,38.8570896025204,0
+-6.60382038244672,38.8570525857128,0
+-6.60315963408383,38.8569396843311,0
+-6.60311209823038,38.8565343483837,0
+-6.6031358661571,38.8565195415474,0
+-6.60368965884974,38.856365920439,0
+-6.60446924684625,38.8561660274152,0
+-6.60557207864619,38.8559087568628,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+    <Placemark>
+      <name>24P.RO.CHAMIZO.ABUELO</name>
+      <description><![CDATA[<b>Exploitation</b> : CHAMIZO CARMONA, ANGEL <br/><b>Parcelle</b> : ABUELO <br/><b>Espèce</b> : Pimiento<br/><font size="5"><b>Surface contrat</b> : 2.9500 Ha</font><br/><i>Du 1/1/2024 au 15/11/2024</i> <br/><b>Crop number</b> : 24P.RO.CHAMIZO.ABUELO <br/><b>Surface validation</b> : ? <br/><b>Crop code</b> : 056451]]></description>
+      <Polygon>
+        <extrude>true</extrude>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-5.72247585672384,39.0378271015093,0
+-5.72135638737511,39.0380264829342,0
+-5.72128508359494,39.0379710992615,0
+-5.72053639390326,39.0358720260658,0
+-5.72186264421439,39.0356006373799,0
+-5.72265411617426,39.0374671058452,0
+-5.72232611878549,39.0375114131029,0
+-5.72247585672384,39.0378271015093,0</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <Style>
+        <LineStyle>
+          <color>ff000000</color>
+          <colorMode>normal</colorMode>
+          <width>1</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff4bf4f4</color>
+          <colorMode>normal</colorMode>
+        </PolyStyle>
+      </Style>
+    </Placemark>
+  </Document>
+</kml>

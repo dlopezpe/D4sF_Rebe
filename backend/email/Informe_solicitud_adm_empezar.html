@@ -1,0 +1,46 @@
+
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+    <tr>
+        <td align="center" valign="top">
+            <table width="40%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td class="center" align="center" valign="top">
+                        <img with="100%" src="https://d4smartfarming.smartbits-es.com/imgMail/mail-cabecera.png" alt="cabecera">
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="center" align="left" valign="top">
+                        <div style="padding-left: 10px; padding-right: 10px">
+                            <br>
+                            <br><br>
+                                El usuario {{nombre_user}} {{email_user}} ha iniciado un nuevo informe,
+                            <br><br>
+                                Nombre del Informe {{nombre_informe}}
+                            <br><br>
+                                Fechas del informe {{fecha_inicio}} - {{fecha_fin}}
+                            <br><br>
+                                Capa Seleccionada {{capa}}
+                            <br><br>
+                                Parcelas
+                            <br><br>
+                                <ul>
+                                {% for parcela in parcelas %}
+                                    <li>{{ parcela }}</li>
+                                {% endfor %}
+                                </ul>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="center" align="center" valign="top">
+                        <br><br>
+                        <br><br>
+                        <img with="100%" src="https://d4smartfarming.smartbits-es.com/imgMail/mail-footer.png" alt="cabecera">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+

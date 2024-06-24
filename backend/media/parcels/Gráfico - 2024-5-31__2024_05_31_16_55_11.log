@@ -1,0 +1,30 @@
+2024-05-31 16:55:11 -- Linea 121 -- Usuario que solicita el informe: rebeca.espana@smartbits.es
+2024-05-31 16:55:11 -- Linea 122 -- Nombre del informe: Gráfico - 2024-5-31
+2024-05-31 16:55:11 -- Linea 123 -- Enterprise ID: 179f9db9-9e57-498c-b000-059c2127988b
+2024-05-31 16:55:11 -- Linea 124 -- Parcelas: Parcel object (27775) -> 003-165/548/168-LavadoPerez - UG16112
+Parcel object (27776) -> 004-165/548/169-LavadoPerez - UG16112
+
+2024-05-31 16:55:11 -- Linea 125 -- Capa: NDVI
+2024-05-31 16:55:11 -- Linea 126 -- Incluir nubes: True
+2024-05-31 16:55:11 -- Linea 127 -- Fecha de inicio: 2024-05-03
+2024-05-31 16:55:11 -- Linea 128 -- Fecha de fin: 2024-05-03
+2024-05-31 16:55:12 -- Linea 178 -- config={
+  "instance_id": "5c9f425a-f830-4164-8a6c-6059bcf1b7d3",
+  "sh_client_id": "33467c23-fada-4405-8a5b-33ee38169273",
+  "sh_client_secret": "&O97/<>sWmmUrI2KctxxVf9iCQi*~eN|:I6R%o6:",
+  "sh_base_url": "https://services.sentinel-hub.com",
+  "geopedia_wms_url": "https://service.geopedia.world",
+  "geopedia_rest_url": "https://www.geopedia.world/rest",
+  "aws_access_key_id": "",
+  "aws_secret_access_key": "",
+  "aws_metadata_url": "https://roda.sentinel-hub.com",
+  "aws_s3_l1c_bucket": "sentinel-s2-l1c",
+  "aws_s3_l2a_bucket": "sentinel-s2-l2a",
+  "opensearch_url": "http://opensearch.sentinel-hub.com/resto/api/collections/Sentinel2",
+  "max_wfs_records_per_query": 100,
+  "max_opensearch_records_per_query": 500,
+  "max_download_attempts": 4,
+  "download_sleep_time": 5,
+  "download_timeout_seconds": 120,
+  "number_of_download_processes": 1
+}

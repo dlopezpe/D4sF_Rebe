@@ -1,0 +1,4724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PARCELAS P INIGO.kmz</name>
+	<StyleMap id="m_ylw-pushpin00010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin220</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl2600</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin11</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin19</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin21">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin23</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin19">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin11</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin16</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin22">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin23</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin23">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin26</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin10</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin24">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin13</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin24</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin25</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin21</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin25">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin17">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin25</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin17</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin15">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin22</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin24</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin16">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin003">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin51</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin14</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin027">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1490</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin30141</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0271">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin14900</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3014</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin03">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin456</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin52</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0600">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin112100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12301</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin074">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2103</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1318</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin239</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin452</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7240</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin764</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin105">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin48</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0011</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin113">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin310</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin159</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin11820">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin011500</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin15120</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin12000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin302000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00310</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1305">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin151</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin453</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1316">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin12</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin137">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin040</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin337</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1416">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin37</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin63</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin149">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin41</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin17020">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin19200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin25500</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin185">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin46</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin210">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0115</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin331</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin267">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0009</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin43</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin271">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin196</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin158</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2730">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0090</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin308</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin28">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin284">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin419</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0004</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin349">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1317</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin121</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin413">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin905</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin219</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6270</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin753</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5112">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin268</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1911</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin620000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4600</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5400</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6202">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3511</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin910100</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1690100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7221">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4060</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin21060</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7223">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin91011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin16910</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin775">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin313</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin627</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin841">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin110</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0114</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin90">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin534</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin912</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin9000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin60301</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin12211</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin94">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin210</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0115</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin220">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl2600">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin10">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>99ff55ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>99ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin11">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>807f0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>997fffaa</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>8000ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin13">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>99ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin15">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>99ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ff55ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin19">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffaa55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffaa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffaa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin23">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffff55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>807f55aa</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin24">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ff00ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff00ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin25">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin26">
+		<IconStyle>
+			<color>ff7f00ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0004">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0011">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin00310">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin01">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0114">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0115">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin121">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12211">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin12301">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin130">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1318">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin15120">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin158">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin159">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1690100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin16910">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1911">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin200">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin21060">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin219">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fffaa55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin25500">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3014">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin30141">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin308">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin331">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin337">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3511">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fffaa55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin43">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin452">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin453">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin46">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin52">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5400">
+		<IconStyle>
+			<scale>1.2</scale>
+		</IconStyle>
+		<LineStyle>
+			<color>ff7f55aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f7f55aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin627">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin63">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin753">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>80ffffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin764">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin912">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>99ff55ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>99ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffff55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ff55ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff7f0000</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>807f0000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin16">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>997fffaa</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin18">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffff55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin19">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin20">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ffaa55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffaa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin21">
+		<IconStyle>
+			<color>ff7f00ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin24">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>8000ffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>8000ffff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin22">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>80ff00ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ff00ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin23">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>99ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin26">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffffaa55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffaa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin25">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>807f55aa</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin11">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>99ff55ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>99ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin13">
+		<BalloonStyle>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ffff55ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>99ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0009">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0090">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin0115">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin011500">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin040">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin110">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin112100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin12">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1317">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1490">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin14900">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin151">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin19200">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin196">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin210">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2103">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin239">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin250">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7f00ff00</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin268">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffff55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin30">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin302000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff000000</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin310">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin313">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin37">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4060">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin41">
+		<IconStyle>
+			<color>ff000000</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin419">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin456">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4600">
+		<LineStyle>
+			<color>ff7f55aa</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7f7f55aa</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin48">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin51">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin534">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>99ff55ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>99ff55ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin60301">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6270">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>80ffffff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>80ffff55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7240">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+		</LabelStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fffaa55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin905">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>7fffaa55</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin910100">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin91011">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>7fffaa55</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder>
+		<name>PARCELAS P INIGO</name>
+		<open>1</open>
+		<Folder>
+			<name>NICOLAU GONÇALVES UNIPESSOAL</name>
+			<Folder>
+				<name>LEZÍRIA</name>
+				<Placemark>
+					<name>H1015</name>
+					<description>45,729 ha
+</description>
+					<styleUrl>#msn_ylw-pushpin22</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.720051164245143,39.1533048301568,0 -8.707103908403798,39.14869583005621,0 -8.705741167593931,39.15020966490942,0 -8.717920529364648,39.1564946446972,0 -8.718457768925855,39.15600214352758,0 -8.720120655591931,39.15624044665426,0 -8.720919782775717,39.15429097634037,0 -8.723198356243921,39.1498458256583,0 -8.722173681319301,39.14930517986533,0 -8.720051164245143,39.1533048301568,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>H1015</name>
+					<description>45,729ha
+
+20 a 22 de abril 2024</description>
+					<LookAt>
+						<longitude>-8.709217298011435</longitude>
+						<latitude>39.1545157476237</latitude>
+						<altitude>0</altitude>
+						<heading>0.02560769659775553</heading>
+						<tilt>28.90620872176121</tilt>
+						<range>1998.896339857872</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.71359435037731,39.15219534485355,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>LEZÍRIA</name>
+					<LookAt>
+						<longitude>-8.711504674491771</longitude>
+						<latitude>39.15706160875605</latitude>
+						<altitude>0</altitude>
+						<heading>0.02540143918391484</heading>
+						<tilt>24.40016450377327</tilt>
+						<range>4758.855353352597</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin21</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.708020780726983,39.15057379442198,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>CANEIRAS</name>
+				<Placemark>
+					<name>72 ha</name>
+					<styleUrl>#msn_ylw-pushpin0</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.697998662273658,39.19669545513444,0 -8.690954997935847,39.20285690679037,0 -8.695716800818779,39.20495301663367,0 -8.70375422443141,39.20076791533763,0 -8.704718335740507,39.19966133930051,0 -8.710463423523422,39.20342850152002,0 -8.714001816621037,39.20157987903685,0 -8.711874960525986,39.20047115265629,0 -8.711120070559808,39.20097985450832,0 -8.706179256130689,39.19802911795755,0 -8.705320603104887,39.19883953462002,0 -8.70257898424698,39.1974221609422,0 -8.702412851532076,39.19760098993862,0 -8.703696709662722,39.19829509324076,0 -8.703292568487766,39.19875732784923,0 -8.704621181725704,39.19967256530146,0 -8.703305912671386,39.20099158168766,0 -8.700958895119408,39.19947985760266,0 -8.699963095683479,39.19921520882971,0 -8.697214859819507,39.20029953194991,0 -8.696538281813227,39.20019937817077,0 -8.700353553084131,39.19861462485156,0 -8.701164259538698,39.19828622118546,0 -8.697998662273658,39.19669545513444,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>H1657</name>
+					<description>72 ha abril 2024
+
+29 abril a 4 maio 2024</description>
+					<LookAt>
+						<gx:TimeStamp><when>2024-02-18</when>
+</gx:TimeStamp>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-8.702838972660897</longitude>
+						<latitude>39.19917307136625</latitude>
+						<altitude>0</altitude>
+						<heading>0.02882667012417172</heading>
+						<tilt>35.59114771794614</tilt>
+						<range>2246.511442523498</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin7</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.696864336414556,39.20158123900445,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>CANEIRAS</name>
+					<LookAt>
+						<longitude>-8.703107512090762</longitude>
+						<latitude>39.18386037501411</latitude>
+						<altitude>0</altitude>
+						<heading>0.03070430959179704</heading>
+						<tilt>24.40018475628286</tilt>
+						<range>4764.312122689779</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin21</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.702147546707575,39.20123934791781,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>PALMEIRAS MARECHAL VARANDAS</name>
+				<Folder>
+					<name>VARANDAS</name>
+					<open>1</open>
+					<description>1472407676001  10.884 Ha
+1472407676001  5.051 Ha
+TOTAL 15,935 ha</description>
+				</Folder>
+				<Folder>
+					<name>QT PALMEIRAS DENTRO</name>
+					<open>1</open>
+					<Folder>
+						<name>Q Palmeira DENTRO</name>
+						<open>1</open>
+						<description>13 abril gradagem
+14 abril - ripagem
+15 abril - gradagem
+18 abril - ripagem 
+18 abril - rototerra
+18 abril - marejar</description>
+						<Placemark>
+							<name>Qta das Palmeiras Dentro</name>
+							<open>1</open>
+							<description>11,595 ha </description>
+							<styleUrl>#msn_ylw-pushpin1</styleUrl>
+							<Polygon>
+								<tessellate>1</tessellate>
+								<outerBoundaryIs>
+									<LinearRing>
+										<coordinates>
+											-8.738713590051079,39.11039612892047,0 -8.738590454434567,39.11070717378999,0 -8.739313162151777,39.11110153680431,0 -8.739177317979726,39.11136848916253,0 -8.739126804460488,39.1113733711386,0 -8.738486243276784,39.11111118457048,0 -8.738394664696873,39.11152491523725,0 -8.748113656584,39.11525438229436,0 -8.748834950934906,39.11441129392884,0 -8.739534321803619,39.11070960119992,0 -8.738713590051079,39.11039612892047,0 
+										</coordinates>
+									</LinearRing>
+								</outerBoundaryIs>
+							</Polygon>
+						</Placemark>
+						<Placemark>
+							<name>UG16112</name>
+							<description>18 abril 2024
+
+11,595 ha</description>
+							<LookAt>
+								<longitude>-8.749253966073065</longitude>
+								<latitude>39.11491783295053</latitude>
+								<altitude>0</altitude>
+								<heading>0.007759980617568931</heading>
+								<tilt>41.18638437903659</tilt>
+								<range>2941.199032712095</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_ylw-pushpin11</styleUrl>
+							<Point>
+								<coordinates>-8.743317914896661,39.1130000366072,0</coordinates>
+							</Point>
+						</Placemark>
+						<Placemark>
+							<name>PALMEIRAS</name>
+							<LookAt>
+								<longitude>-8.742163814802529</longitude>
+								<latitude>39.11274532071764</latitude>
+								<altitude>0</altitude>
+								<heading>0.007512723546243608</heading>
+								<tilt>39.64121224084322</tilt>
+								<range>990.3776648994326</range>
+								<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+							</LookAt>
+							<styleUrl>#msn_ylw-pushpin24</styleUrl>
+							<Point>
+								<gx:drawOrder>1</gx:drawOrder>
+								<coordinates>-8.741727878808506,39.11210076608838,0</coordinates>
+							</Point>
+						</Placemark>
+					</Folder>
+				</Folder>
+				<Folder>
+					<name>Marechal</name>
+					<open>1</open>
+					<Placemark>
+						<name>Marechal</name>
+						<description>9,096 ha</description>
+						<styleUrl>#msn_ylw-pushpin620000</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.738440251041682,39.11292988958463,0 -8.738819459453394,39.1140406285045,0 -8.746711671769638,39.11693365109387,0 -8.747414900463545,39.11613012974468,0 -8.738440251041682,39.11292988958463,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>MARECHAL</name>
+						<LookAt>
+							<longitude>-8.744176744926234</longitude>
+							<latitude>39.11563086884766</latitude>
+							<altitude>0</altitude>
+							<heading>-0.0007880899690394669</heading>
+							<tilt>45.00584659742069</tilt>
+							<range>1920.52722873065</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin24</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.746742813818518,39.11637435189096,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>H1015</name>
+						<description>18 abril 2024
+
+9 ha</description>
+						<LookAt>
+							<longitude>-8.742488213182767</longitude>
+							<latitude>39.11193942742059</latitude>
+							<altitude>0</altitude>
+							<heading>0.01329708878307239</heading>
+							<tilt>45.00663872647028</tilt>
+							<range>930.0703842621006</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin11</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.743404692964242,39.1150023678828,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>KIWIS BELÉM</name>
+				<Folder>
+					<name>BELÉM</name>
+					<open>1</open>
+					<Placemark>
+						<name>Nª Srª Belém</name>
+						<description>3,423 ha
+</description>
+						<styleUrl>#msn_ylw-pushpin6</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.748142283170601,39.10044342337756,0 -8.748990248299505,39.09973756991822,0 -8.745766715799366,39.09804089576441,0 -8.744864717976853,39.09895927096925,0 -8.746305936354103,39.0996832573659,0 -8.746915167236715,39.09916142377458,0 -8.747728336745864,39.09964775588795,0 -8.747459322871997,39.10001320190708,0 -8.748142283170601,39.10044342337756,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>Courela do Caracol Dentro</name>
+						<description>7.355 Ha
+</description>
+						<styleUrl>#msn_ylw-pushpin6</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.754297084472178,39.10353484155304,0 -8.754628621015627,39.10220743727645,0 -8.753647889932223,39.10162052194138,0 -8.753469729121928,39.10191037775218,0 -8.74908639294619,39.09981109227747,0 -8.74822406986185,39.10060938813245,0 -8.751484901167334,39.10218714460513,0 -8.754297084472178,39.10353484155304,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>H1015</name>
+						<description>17 abril 2024
+</description>
+						<LookAt>
+							<longitude>-8.749425000207829</longitude>
+							<latitude>39.10253079975564</latitude>
+							<altitude>0</altitude>
+							<heading>0.0008322585671781535</heading>
+							<tilt>33.02119330834958</tilt>
+							<range>1849.591847589962</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin11</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.751626236699861,39.10174305097015,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>H1015</name>
+						<description>16 abril 2024</description>
+						<LookAt>
+							<longitude>-8.749425000207829</longitude>
+							<latitude>39.10253079975564</latitude>
+							<altitude>0</altitude>
+							<heading>0.0008322585671781535</heading>
+							<tilt>33.02119330834958</tilt>
+							<range>1849.591847589962</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin11</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.746004943276182,39.09869600038135,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>BELÉM</name>
+						<LookAt>
+							<longitude>-8.741681524014483</longitude>
+							<latitude>39.09703453077728</latitude>
+							<altitude>0</altitude>
+							<heading>0.002071454854308758</heading>
+							<tilt>22.07596362632736</tilt>
+							<range>2316.109396099697</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin20</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.74909710442809,39.10053819492974,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>Nogueiras e Kiwis ou LEAL</name>
+					<open>1</open>
+					<Placemark>
+						<name>Kiwis</name>
+						<description>23,95ha</description>
+						<styleUrl>#msn_ylw-pushpin185</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.763110256849425,39.08873322541943,0 -8.765140408267749,39.09042092684772,0 -8.76645275815652,39.09147252828463,0 -8.767961586491262,39.09272493523487,0 -8.768667311525194,39.09205208716328,0 -8.769510060572692,39.09136534766572,0 -8.759021419089969,39.08303526070574,0 -8.758465666534194,39.08319680288496,0 -8.758332219691358,39.08362906301942,0 -8.759393624949023,39.08445746802115,0 -8.759254347567435,39.08456108822679,0 -8.758303183050437,39.08384518701788,0 -8.757995769020175,39.08459720185418,0 -8.758502721565758,39.08503448322897,0 -8.76097215983226,39.08710051380893,0 -8.761736471700756,39.08764476345523,0 -8.763110256849425,39.08873322541943,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>KIWIS</name>
+						<LookAt>
+							<longitude>-8.76570663215006</longitude>
+							<latitude>39.09029858611412</latitude>
+							<altitude>0</altitude>
+							<heading>0.009999025622253147</heading>
+							<tilt>35.01255777919809</tilt>
+							<range>3046.821791301427</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin3</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.764059112063874,39.08887700208057,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>ISI28279</name>
+						<description>23,95 ha
+15 e 16 abril 2024
+</description>
+						<LookAt>
+							<longitude>-8.761027222789892</longitude>
+							<latitude>39.08776651488672</latitude>
+							<altitude>0</altitude>
+							<heading>0.001270016041504552</heading>
+							<tilt>43.95034705512423</tilt>
+							<range>1146.90014193929</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin11</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.761992071492587,39.08576595340389,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>BORDARIAS</name>
+			<Folder>
+				<name>CARLOS</name>
+				<open>1</open>
+				<Placemark>
+					<name>Polígono sem título</name>
+					<description>6 ha</description>
+					<styleUrl>#msn_ylw-pushpin9</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.956584382821134,38.98294942831073,0 -8.954689221315167,38.98430541515639,0 -8.957238195145653,38.98606163173248,0 -8.95851530710522,38.98576219074599,0 -8.959500301144871,38.98477833672786,0 -8.958738312111761,38.98431220506455,0 -8.957090628406206,38.98332343346936,0 -8.956584382821134,38.98294942831073,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>CARLOS ENJALADOR</name>
+					<open>1</open>
+					<LookAt>
+						<longitude>-8.957834626049809</longitude>
+						<latitude>38.98309344917913</latitude>
+						<altitude>0</altitude>
+						<heading>0.003262345423996417</heading>
+						<tilt>19.23562782237202</tilt>
+						<range>870.9385938993754</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin775</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.95841970265783,38.98481989856944,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>H9553</name>
+					<description>3,9 ha
+25 abril 2024</description>
+					<LookAt>
+						<gx:TimeStamp><when>2023-04-20</when>
+</gx:TimeStamp>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-8.957374658880605</longitude>
+						<latitude>38.98384394644309</latitude>
+						<altitude>0</altitude>
+						<heading>0.0009440244342503206</heading>
+						<tilt>38.39827213645993</tilt>
+						<range>443.1564680297402</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin17</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.957162057113194,38.98411617927616,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>H1015</name>
+					<description>2,1 ha 
+26 abril 2024</description>
+					<LookAt>
+						<longitude>-8.958289273730422</longitude>
+						<latitude>38.98387274774248</latitude>
+						<altitude>0</altitude>
+						<heading>0.0005163306848915761</heading>
+						<tilt>30.40172317370846</tilt>
+						<range>394.7435667266539</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin17</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.956804240620839,38.98499792010411,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>PEDRO FARINHA</name>
+			<Folder>
+				<name>MANTEIGAS</name>
+				<Placemark>
+					<name>manteigas</name>
+					<styleUrl>#msn_ylw-pushpin19</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.713953091291895,39.23307701022576,0 -8.713354297355311,39.23330813683966,0 -8.714633431988185,39.23504109012833,0 -8.716709510169004,39.2372599476615,0 -8.71931217063262,39.23883110540491,0 -8.719736898892981,39.23816704284374,0 -8.718559277264799,39.23711493936796,0 -8.717578400904785,39.23634710760188,0 -8.717432716148565,39.23561485917919,0 -8.716550282621146,39.23448459765081,0 -8.716094777193,39.2340187486362,0 -8.715646111742299,39.23430931555509,0 -8.715814030336368,39.23449535437215,0 -8.715464926334841,39.23477667705274,0 -8.715263810046958,39.23473290858112,0 -8.715061879685535,39.23475920778188,0 -8.714487965244185,39.23393847704682,0 -8.714185248147144,39.23332254966027,0 -8.714130685722427,39.23275753763692,0 -8.71397187821788,39.2319837092337,0 -8.714081046086616,39.23185422159143,0 -8.71408409763381,39.2317625053297,0 -8.714092502248784,39.23172961591854,0 -8.714080543108606,39.23169723791354,0 -8.714084523483175,39.23164139426116,0 -8.714067398090501,39.23159308169804,0 -8.714070498502448,39.23154492156121,0 -8.71329298615966,39.23170917963904,0 -8.713659459288154,39.23240334570637,0 -8.713953091291895,39.23307701022576,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>QTA DAS MANTEIGAS</name>
+					<LookAt>
+						<longitude>-8.717286833419319</longitude>
+						<latitude>39.23637024844263</latitude>
+						<altitude>0</altitude>
+						<heading>3.380595042300713e-05</heading>
+						<tilt>43.36539750468513</tilt>
+						<range>839.0592423683812</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin14</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.718451319819437,39.23736586529771,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Olivenza</name>
+					<description>26 a 30 abril 2024
+9,879 ha
+</description>
+					<LookAt>
+						<longitude>-8.71572982782954</longitude>
+						<latitude>39.23590901225018</latitude>
+						<altitude>0</altitude>
+						<heading>0.0005892882656240997</heading>
+						<tilt>40.94126799948112</tilt>
+						<range>1166.839734502744</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin5</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.716325276865058,39.23462312101823,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>AGRO SOLDADICO</name>
+			<Folder>
+				<name>AVEIRAS QUINTA</name>
+				<open>1</open>
+				<Placemark>
+					<name>Polígono sem título</name>
+					<open>1</open>
+					<description>1.327 Ha</description>
+					<styleUrl>#msn_ylw-pushpin4</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.88956315757966,39.125426062874,0 -8.888803099695869,39.12577338010557,0 -8.890424940409487,39.12679819201819,0 -8.890729003537054,39.12631531900183,0 -8.88956315757966,39.125426062874,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>Polígono sem título</name>
+					<open>1</open>
+					<description>1342402313001  1.238 Ha
+1342404124001  0.189 Ha</description>
+					<styleUrl>#msn_ylw-pushpin43</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.893003407240506,39.12787153718728,0 -8.893383861945786,39.12743223403392,0 -8.892362247259449,39.12692706321312,0 -8.891073669840381,39.12637461855015,0 -8.890983150206313,39.12656183596878,0 -8.890878600341928,39.12673450234328,0 -8.890700614209894,39.12696445042312,0 -8.891266197669641,39.12708012863203,0 -8.892281305521937,39.12743953793451,0 -8.893003407240506,39.12787153718728,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Folder>
+					<name>tomate</name>
+					<open>1</open>
+					<Placemark>
+						<name>Caminho sem título</name>
+						<description>4 ha</description>
+						<styleUrl>#msn_ylw-pushpin12000</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-8.892260912276964,39.12894074480678,0 -8.888474014711836,39.12665374181871,0 -8.887995466324599,39.12584527355884,0 -8.88817830857198,39.12560407249637,0 -8.888678033010891,39.12610958130729,0 -8.890230096128558,39.12707010669784,0 -8.891040345733597,39.12725548761258,0 -8.892789153891563,39.12810430685095,0 -8.892260912276964,39.12894074480678,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Polígono sem título</name>
+						<description>3.439 Ha</description>
+						<styleUrl>#msn_ylw-pushpin16</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.892745936228167,39.1280910883398,0 -8.891848697945175,39.12755501920633,0 -8.89081587905868,39.12722517835446,0 -8.890477265219152,39.1272019609269,0 -8.888883648252984,39.12622212272948,0 -8.888584329592776,39.12598502198652,0 -8.888405071728712,39.12571806478047,0 -8.888285370704491,39.12559573847511,0 -8.888184955772092,39.12558670289366,0 -8.888134196251714,39.12562780819322,0 -8.888075788342036,39.12568442308425,0 -8.888037783496216,39.12570159657462,0 -8.887998042966888,39.12577918591745,0 -8.887974920623149,39.12582592620536,0 -8.887991476760678,39.12589367306562,0 -8.888117682790666,39.12605106094999,0 -8.888249495321556,39.12623319644818,0 -8.888521387054784,39.12658326550144,0 -8.892158569809194,39.12875715198398,0 -8.892745936228167,39.1280910883398,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>H1657</name>
+						<description>1 maio 2024
+1 ha
+fradplanta</description>
+						<LookAt>
+							<longitude>-8.896948085925494</longitude>
+							<latitude>39.1315097305011</latitude>
+							<altitude>0</altitude>
+							<heading>-4.038255391800134</heading>
+							<tilt>29.53646429350472</tilt>
+							<range>689.7725464022188</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin210</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.897418608125786,39.1325365296988,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Polígono sem título</name>
+						<description>1,179 ha </description>
+						<styleUrl>#msn_ylw-pushpin8</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.896629175988295,39.13298153468646,0 -8.896931914229052,39.13367968806455,0 -8.89727692981673,39.13336893481864,0 -8.897547246753115,39.13287874682784,0 -8.897951187826926,39.13252080114918,0 -8.897804625111682,39.13193860515861,0 -8.897575392707113,39.13188148656678,0 -8.897285793940895,39.13225574483917,0 -8.896629175988295,39.13298153468646,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>Caminho sem título</name>
+						<description>0,5 ha</description>
+						<styleUrl>#msn_ylw-pushpin12000</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-8.887890786276678,39.12581941239062,0 -8.887348144213576,39.12496558658576,0 -8.887699286123743,39.12460763724219,0 -8.887995572600536,39.12502260185887,0 -8.887903201460999,39.1253003848927,0 -8.888090625073589,39.12552980501101,0 -8.887890786276678,39.12581941239062,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Caminho sem título</name>
+						<description>1 ha</description>
+						<styleUrl>#msn_ylw-pushpin12000</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-8.887467740854856,39.12441562804309,0 -8.887020979552412,39.12458274097057,0 -8.88614310720039,39.12345139540383,0 -8.88650253166514,39.1231054319341,0 -8.886838537675327,39.12345650951567,0 -8.88730901962033,39.12356410506892,0 -8.887328655891348,39.12402659649879,0 -8.887467740854856,39.12441562804309,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>Caminho sem título</name>
+						<description>1,7 ha</description>
+						<styleUrl>#msn_ylw-pushpin12000</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-8.886460283469269,39.12304396936005,0 -8.886065421888677,39.12339466287354,0 -8.884516429799442,39.12281021842121,0 -8.885355787834408,39.12198099144185,0 -8.885768608641376,39.12216282797579,0 -8.886460283469269,39.12304396936005,0 
+							</coordinates>
+						</LineString>
+					</Placemark>
+					<Placemark>
+						<name>H1657 e UG16112</name>
+						<description>2 maio 2024
+3,5 ha</description>
+						<LookAt>
+							<longitude>-8.891117050631911</longitude>
+							<latitude>39.1273533664442</latitude>
+							<altitude>0</altitude>
+							<heading>0.0005924440422684332</heading>
+							<tilt>26.28019243106422</tilt>
+							<range>536.7802966974464</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin210</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.889876428748956,39.12718868454238,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>H1657</name>
+						<description>6 maio 2024</description>
+						<LookAt>
+							<longitude>-8.891052779397107</longitude>
+							<latitude>39.12460808801851</latitude>
+							<altitude>0</altitude>
+							<heading>0.001819885848765933</heading>
+							<tilt>36.51601766995507</tilt>
+							<range>1124.50652921233</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin2</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.888112511034523,39.12371537425941,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Placemark>
+					<name>Polígono sem título</name>
+					<description>1.048 Ha
+ 1.109 Ha</description>
+					<styleUrl>#msn_ylw-pushpin18</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.887795624353936,39.12437652483878,0 -8.88891398988436,39.123958822465,0 -8.888242784012068,39.123031234007,0 -8.887877690658039,39.12277550777349,0 -8.886337231032309,39.12255321552208,0 -8.886877543896739,39.12331007321982,0 -8.887482016716648,39.12341296798433,0 -8.887680134414236,39.12373916594535,0 -8.887530016971999,39.12400582305148,0 -8.887795624353936,39.12437652483878,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>Polígono sem título</name>
+					<description>0.723 Ha</description>
+					<styleUrl>#msn_ylw-pushpin18</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.889153249317516,39.12393197640884,0 -8.889500397349646,39.12376986152717,0 -8.888975133090968,39.12298263864097,0 -8.888385633222569,39.12248466194407,0 -8.888072263501236,39.12272429876134,0 -8.888604780811903,39.12310236210489,0 -8.889153249317516,39.12393197640884,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>SV8840</name>
+					<description>4 maio 2024
+</description>
+					<LookAt>
+						<longitude>-8.890868786491255</longitude>
+						<latitude>39.12680366458991</latitude>
+						<altitude>0</altitude>
+						<heading>0.0007490996916426043</heading>
+						<tilt>26.28019259298503</tilt>
+						<range>536.8209833941949</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin2</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.891992983079856,39.1269598604131,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>SV8840</name>
+					<description>5 maio 2024
+</description>
+					<LookAt>
+						<longitude>-8.890868786491255</longitude>
+						<latitude>39.12680366458991</latitude>
+						<altitude>0</altitude>
+						<heading>0.0007490996916815661</heading>
+						<tilt>26.28019259298503</tilt>
+						<range>536.8209833936568</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin2</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.889573645408065,39.12580637608485,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>GREGÓRIO, MAFALDA e MARIA EMÍLIA</name>
+			<Folder>
+				<name>FÁBRICA DO SEBO</name>
+				<Placemark>
+					<name>Polígono sem título</name>
+					<styleUrl>#msn_ylw-pushpin90</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-9.14605672002647,38.83387680659966,0 -9.145841008515557,38.8333213268817,0 -9.145408985073546,38.83295031758667,0 -9.144950795249814,38.83293869139034,0 -9.144925491402887,38.83333832819543,0 -9.142051364749342,38.83804029592342,0 -9.142849128532047,38.83807249903139,0 -9.143127852031828,38.83803272701012,0 -9.146373859619906,38.83552653407744,0 -9.14653959394569,38.83562540412584,0 -9.147244722251266,38.83520510005867,0 -9.14605672002647,38.83387680659966,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>FÁBRICA DO SEBO</name>
+					<LookAt>
+						<longitude>-9.144380532023483</longitude>
+						<latitude>38.83546325088925</latitude>
+						<altitude>0</altitude>
+						<heading>0.0001680028514211187</heading>
+						<tilt>43.92945140230988</tilt>
+						<range>818.6532983976897</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin271</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.145147445212359,38.83400329438894,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>H1657</name>
+					<description>8,69 ha
+6 a 8 abril 2024</description>
+					<LookAt>
+						<longitude>-9.14467218680482</longitude>
+						<latitude>38.83596299040718</latitude>
+						<altitude>0</altitude>
+						<heading>-2.501661309011777e-09</heading>
+						<tilt>44.99998300654836</tilt>
+						<range>1000.589282660358</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin2</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.145438625423491,38.83552913945104,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>FONTE DOS PORCOS</name>
+				<description>3,31 ha</description>
+				<Placemark>
+					<name>Polígono sem título</name>
+					<description>3 ha</description>
+					<styleUrl>#msn_ylw-pushpin</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-9.128552244612356,38.83974946038379,0 -9.127006301646755,38.83949877243285,0 -9.127030890411159,38.8417506422755,0 -9.129058666735153,38.84131694411098,0 -9.129101835931671,38.8411725719492,0 -9.128919513116196,38.84076830373961,0 -9.128764175635958,38.84038340374192,0 -9.128653825195162,38.84015329779179,0 -9.128552244612356,38.83974946038379,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>UG16112</name>
+					<description>3,31 ha
+plantigrou
+3 e 4 maio 2024</description>
+					<LookAt>
+						<longitude>-9.127644207283939</longitude>
+						<latitude>38.84052672811776</latitude>
+						<altitude>0</altitude>
+						<heading>-0.09870174434396763</heading>
+						<tilt>24.73656202939647</tilt>
+						<range>544.6094689648053</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin11820</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.127644207283938,38.84052672811775,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>FONTE DOS PORCOS</name>
+					<description>MAFALDA</description>
+					<LookAt>
+						<longitude>-9.127399429154242</longitude>
+						<latitude>38.84026546501035</latitude>
+						<altitude>0</altitude>
+						<heading>0.0008928720353457181</heading>
+						<tilt>37.78682268858027</tilt>
+						<range>504.3323930928299</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin9000</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.127704854476866,38.84011754276548,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>CASA DA LINA</name>
+				<Placemark>
+					<name>H1534</name>
+					<description>11 e 12 abril de 2024
+2 ha</description>
+					<LookAt>
+						<gx:TimeStamp><when>2024-02-18</when>
+</gx:TimeStamp>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-9.125082158551251</longitude>
+						<latitude>38.84228841245805</latitude>
+						<altitude>0</altitude>
+						<heading>0.01804128923965879</heading>
+						<tilt>31.82406976615562</tilt>
+						<range>499.1155215986633</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin28</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.124385444193724,38.84301990888088,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Polígono sem título</name>
+					<styleUrl>#msn_ylw-pushpin25</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-9.125747330993487,38.84275939991919,0 -9.125729939068027,38.84258511956297,0 -9.125698207863342,38.84239058887198,0 -9.125667273834605,38.84225911715257,0 -9.125624703506471,38.84210021161178,0 -9.124050037637195,38.8426137734179,0 -9.122862446632338,38.84300167427826,0 -9.123861445974288,38.84371488703145,0 -9.124429700190941,38.84332259710525,0 -9.125165212235331,38.84336307307234,0 -9.125761686052588,38.84340658820063,0 -9.125770583890056,38.84313479796828,0 -9.125773674294598,38.84297472561875,0 -9.125747330993487,38.84275939991919,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>CASA DA LINA</name>
+					<description>GREGÓRIO</description>
+					<LookAt>
+						<longitude>-9.123458183213653</longitude>
+						<latitude>38.84283273219481</latitude>
+						<altitude>0</altitude>
+						<heading>0.003669986019554644</heading>
+						<tilt>28.09233926166674</tilt>
+						<range>1258.564489779621</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin9000</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.125389780296937,38.84279333260651,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>TERRA DO GORDO</name>
+				<Placemark>
+					<open>1</open>
+					<description>10 ha
+</description>
+					<styleUrl>#msn_ylw-pushpin15</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-9.12675188916945,38.85018325538231,0 -9.127223830099126,38.85010620312649,0 -9.125444946034644,38.84712880166288,0 -9.124418652966535,38.84651371135121,0 -9.123909127785089,38.8455072026128,0 -9.124187212766211,38.84522151582117,0 -9.1230906306858,38.84390786539683,0 -9.122372545106252,38.84428726665116,0 -9.12167668751896,38.84462218056588,0 -9.125955174809485,38.85154812599551,0 -9.126347620208573,38.85111865364447,0 -9.126354585737875,38.85076491112523,0 -9.1262665219424,38.85026433110791,0 -9.12675188916945,38.85018325538231,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>H1534</name>
+					<description>7 ha 
+23 e 24 abril 202</description>
+					<LookAt>
+						<longitude>-9.121824273081961</longitude>
+						<latitude>38.84587290211533</latitude>
+						<altitude>0</altitude>
+						<heading>8.326241318809428e-05</heading>
+						<tilt>45.00002094410129</tilt>
+						<range>653.3301093195905</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin28</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.124222511713775,38.84724408626277,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>TERRA DO GORDO</name>
+					<LookAt>
+						<longitude>-9.11454116233215</longitude>
+						<latitude>38.84644951786058</latitude>
+						<altitude>0</altitude>
+						<heading>0.01938976612214063</heading>
+						<tilt>27.79272398957432</tilt>
+						<range>2081.967748171228</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin7221</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.123777208323954,38.84507829891744,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>UG16112</name>
+					<description>24 e 25 abril 2024
+3 ha</description>
+					<LookAt>
+						<longitude>-9.125624310219219</longitude>
+						<latitude>38.84641220443437</latitude>
+						<altitude>0</altitude>
+						<heading>1.780729148276491e-06</heading>
+						<tilt>45.00071903278968</tilt>
+						<range>1476.078076600459</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin28</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.125548840744798,38.84821794977613,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>SHOPING</name>
+				<Placemark>
+					<name>shoping</name>
+					<description> 5.874 Ha 
+ 0,85 HA </description>
+					<styleUrl>#msn_ylw-pushpin23</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-9.148789329948951,38.83320626305731,0 -9.148162880558349,38.83347513480481,0 -9.145773838978155,38.83310043768191,0 -9.14629791039213,38.8340225798439,0 -9.147368096141969,38.8351087505871,0 -9.148150792303703,38.83562731365321,0 -9.148616941797657,38.83535367538759,0 -9.148934346526497,38.8353053951756,0 -9.149370477845926,38.83514339053792,0 -9.149680133563074,38.83509087379742,0 -9.149994298858523,38.83495064254217,0 -9.150362184979539,38.83488476906814,0 -9.150683554342811,38.83473643578521,0 -9.151069310662077,38.83463050125497,0 -9.150684295907221,38.83437085841978,0 -9.149671686800895,38.8339751390752,0 -9.148789329948951,38.83320626305731,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>SHOPPING</name>
+					<description>GREGÓRIO</description>
+					<LookAt>
+						<longitude>-9.148082344268243</longitude>
+						<latitude>38.83378893728725</latitude>
+						<altitude>0</altitude>
+						<heading>-0.01282681352764318</heading>
+						<tilt>27.24893048235457</tilt>
+						<range>569.0670570774217</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin9000</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.148670588458121,38.83439637968315,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>UG16112</name>
+					<description>19 e 22 abril 2024
+6 (3+3)  ha</description>
+					<LookAt>
+						<longitude>-9.150078754497963</longitude>
+						<latitude>38.83212237274341</latitude>
+						<altitude>0</altitude>
+						<heading>-0.0002340062529986796</heading>
+						<tilt>44.25491620072702</tilt>
+						<range>669.0221793798</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin28</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.149488290147831,38.83457098164986,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>MARMOTAS</name>
+				<Placemark>
+					<name>Marmotas 1</name>
+					<description>9,164 ha
+</description>
+					<styleUrl>#msn_ylw-pushpin23</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-9.145076869363933,38.83273007379502,0 -9.14799458424927,38.83338015782254,0 -9.148655354896958,38.83304147281627,0 -9.14993972457542,38.83320083255807,0 -9.151560468437019,38.83193817501401,0 -9.152830249332348,38.83112453230735,0 -9.154344005922905,38.83087647330061,0 -9.154280657745272,38.83073128542343,0 -9.152588068818595,38.8303683431707,0 -9.151560337500158,38.83056072556086,0 -9.148554915734922,38.8318487639927,0 -9.145076869363933,38.83273007379502,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>H1534</name>
+					<description>16 a 18 abril 2024
+
+9,164 ha</description>
+					<LookAt>
+						<longitude>-9.149129787167329</longitude>
+						<latitude>38.83279519938112</latitude>
+						<altitude>0</altitude>
+						<heading>0.0003928416518233597</heading>
+						<tilt>40.95655422626557</tilt>
+						<range>661.5638584731869</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin28</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.150201061397642,38.8323030603368,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>MARMOTAS</name>
+					<description>MARIA EMÍLIA</description>
+					<LookAt>
+						<longitude>-9.146572825276188</longitude>
+						<latitude>38.83237293383096</latitude>
+						<altitude>0</altitude>
+						<heading>-0.01385964473628843</heading>
+						<tilt>31.06654670060572</tilt>
+						<range>479.3369842073296</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin9000</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-9.14694776882027,38.8326697165132,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>BARACINHO</name>
+			<Folder>
+				<name>BARRACÃO</name>
+				<Placemark>
+					<name>N6441</name>
+					<open>1</open>
+					<description>5 ha 
+9 e 10 maio 2024</description>
+					<LookAt>
+						<longitude>-8.698965823551593</longitude>
+						<latitude>39.18868180711434</latitude>
+						<altitude>0</altitude>
+						<heading>0.00161562215029005</heading>
+						<tilt>41.16655798607775</tilt>
+						<range>733.9607347777991</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin2</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.700100027952093,39.19143548185279,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>H1657</name>
+					<open>1</open>
+					<description>8,3 ha
+9 e 10 maio 2024
+</description>
+					<LookAt>
+						<longitude>-8.698965823551593</longitude>
+						<latitude>39.18868180711434</latitude>
+						<altitude>0</altitude>
+						<heading>0.00161562215029005</heading>
+						<tilt>41.16655798607775</tilt>
+						<range>733.9607347777991</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin2</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.700556940693605,39.19028489168735,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>H1657</name>
+					<open>1</open>
+					<description>3 maio 2024
+5 ha
+relcampo</description>
+					<LookAt>
+						<longitude>-8.701595198562245</longitude>
+						<latitude>39.193148878385</latitude>
+						<altitude>0</altitude>
+						<heading>-3.132114833664827e-10</heading>
+						<tilt>45.00000000093756</tilt>
+						<range>1837.536486869835</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin1316</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.700191663201002,39.18926213699057,0</coordinates>
+					</Point>
+				</Placemark>
+				<Folder>
+					<name>Barracão 1</name>
+					<Placemark>
+						<name>barracão</name>
+						<description>4 ha</description>
+						<styleUrl>#msn_ylw-pushpin6202</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.701395072859615,39.19400278298308,0 -8.707261079959119,39.19708980496651,0 -8.707375784044789,39.19691056361517,0 -8.703803486818829,39.19501799520135,0 -8.704363458927801,39.19448587894918,0 -8.70454321642333,39.19459190893905,0 -8.704782119505088,39.19431935402609,0 -8.704278111526875,39.19404104754238,0 -8.70395253278334,39.19430718939064,0 -8.702137913172606,39.1931995402208,0 -8.701395072859615,39.19400278298308,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>Kendras</name>
+						<description>3,532 ha
+26 abril 2024
+relcampo</description>
+						<LookAt>
+							<longitude>-8.702908463993575</longitude>
+							<latitude>39.1940818765952</latitude>
+							<altitude>0</altitude>
+							<heading>0.001020199084651127</heading>
+							<tilt>33.77141478625632</tilt>
+							<range>767.987118132833</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.702869205470234,39.19431114102426,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Placemark>
+					<name>Barracão</name>
+					<LookAt>
+						<longitude>-8.698580295410583</longitude>
+						<latitude>39.18363016391624</latitude>
+						<altitude>0</altitude>
+						<heading>0.001613186755716794</heading>
+						<tilt>34.93095491737854</tilt>
+						<range>9620.792243887134</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin00010</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.701443772028632,39.19161843892138,0</coordinates>
+					</Point>
+				</Placemark>
+				<Folder>
+					<name>Barracão 3</name>
+					<Placemark>
+						<name>Barracão</name>
+						<description>18,3 ha total 2023</description>
+						<styleUrl>#msn_ylw-pushpin7220</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.696266199748768,39.18948330846678,0 -8.698173326554947,39.19048793309794,0 -8.697964171143497,39.19077450947016,0 -8.699803055085365,39.1917149779671,0 -8.70214180971978,39.19304515285643,0 -8.704075309772056,39.19094890011194,0 -8.701479738611953,39.18959416838801,0 -8.697194580447006,39.18747306126982,0 -8.696521432362394,39.1884996801787,0 -8.696266199748768,39.18948330846678,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>Barracão 2</name>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>Malpique Quinta</name>
+				<Placemark>
+					<name>H1902</name>
+					<open>1</open>
+					<description>7 maio 2024
+relcampo</description>
+					<LookAt>
+						<longitude>-8.721086779676174</longitude>
+						<latitude>39.16370167028941</latitude>
+						<altitude>0</altitude>
+						<heading>0.01085952171207246</heading>
+						<tilt>18.10549341146799</tilt>
+						<range>485.5570551650012</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin2</styleUrl>
+					<Point>
+						<coordinates>-8.721467195526914,39.16515169822038,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Malpique Quinta</name>
+					<open>1</open>
+					<description>8,231 Ha</description>
+					<styleUrl>#msn_ylw-pushpin12</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.724255600886764,39.16758223558474,0 -8.724957896046412,39.16619521115347,0 -8.718431917813184,39.1630096198633,0 -8.718191221707048,39.16329852017119,0 -8.719101469299019,39.16396838467618,0 -8.718812484427307,39.16432345523658,0 -8.724255600886764,39.16758223558474,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>Malpique Quinta 1</name>
+					<LookAt>
+						<longitude>-8.721149561041111</longitude>
+						<latitude>39.16549560754779</latitude>
+						<altitude>0</altitude>
+						<heading>-0.001120538423784756</heading>
+						<tilt>44.99886519607085</tilt>
+						<range>1188.752904335016</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin1305</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.716817966446472,39.16471657207731,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Malpique Coradinho</name>
+					<description>15,030 ha</description>
+					<styleUrl>#msn_ylw-pushpin12</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.716687965256039,39.16327050583845,0 -8.715270087217021,39.16471624894709,0 -8.723621714699714,39.16887383200355,0 -8.724299056443957,39.16765624410672,0 -8.716687965256039,39.16327050583845,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>Sailor</name>
+					<description>15,03 ha
+fradplanta
+19 e 20 Abril 2024</description>
+					<LookAt>
+						<gx:TimeStamp><when>2023-04-27</when>
+</gx:TimeStamp>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-8.717279231521218</longitude>
+						<latitude>39.16436736708152</latitude>
+						<altitude>0</altitude>
+						<heading>0.001875514438529976</heading>
+						<tilt>37.84064493114337</tilt>
+						<range>756.6636013654515</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin28</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.719845455750914,39.16594033774392,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Malpique Quinta 2</name>
+					<LookAt>
+						<longitude>-8.718316953220528</longitude>
+						<latitude>39.16521381990063</latitude>
+						<altitude>0</altitude>
+						<heading>0.0006685405524159612</heading>
+						<tilt>44.99887333864648</tilt>
+						<range>1190.034808308521</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin105</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.720329588890811,39.16430034279795,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>LEZÍRIA</name>
+				<Placemark>
+					<name>Polígono sem título</name>
+					<styleUrl>#msn_ylw-pushpin10</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.687347757042529,39.17838086650113,0 -8.686943074948454,39.17992115027455,0 -8.686221848356006,39.1812768671928,0 -8.690433890124096,39.18280781285407,0 -8.691935456891311,39.18152458207806,0 -8.692503335906133,39.18150967022974,0 -8.693485296354227,39.18061435877788,0 -8.687347757042529,39.17838086650113,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>Sailor</name>
+					<description>16,44 ha plantigrou
+23 a 25 março 2024</description>
+					<LookAt>
+						<longitude>-8.689072660952855</longitude>
+						<latitude>39.17971216295728</latitude>
+						<altitude>0</altitude>
+						<heading>0.003014808444776422</heading>
+						<tilt>0</tilt>
+						<range>1439.075759159125</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin28</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.689660329732083,39.18092960614722,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Lezíria</name>
+					<LookAt>
+						<longitude>-8.689072660952855</longitude>
+						<latitude>39.17971216295728</latitude>
+						<altitude>0</altitude>
+						<heading>0.003014808444776422</heading>
+						<tilt>0</tilt>
+						<range>1439.075759159125</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin113</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.689072660952853,39.17971216295727,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>SALÕES E TERRA DA OLIVEIRA</name>
+				<Folder>
+					<name>Terra da Oliveira</name>
+					<open>1</open>
+					<Placemark>
+						<name>Parcela do Ramiro</name>
+						<description>5,3 ha</description>
+						<styleUrl>#msn_ylw-pushpin13</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.698084568800111,39.18050164353614,0 -8.695297982034656,39.17915927687134,0 -8.694534151455189,39.17979866810473,0 -8.697631560917785,39.18118404633082,0 -8.700344187225422,39.18244413854421,0 -8.701008620780996,39.18174951976751,0 -8.698084568800111,39.18050164353614,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>H1534</name>
+						<description>6 abril 2024
+2,621 ha</description>
+						<LookAt>
+							<longitude>-8.697176815012092</longitude>
+							<latitude>39.18013476597807</latitude>
+							<altitude>0</altitude>
+							<heading>-0.000413369893588535</heading>
+							<tilt>39.23032673436386</tilt>
+							<range>643.3223436404763</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<coordinates>-8.699778651169206,39.18150453651892,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Terra da Oliveira</name>
+						<description>Ramiro</description>
+						<LookAt>
+							<longitude>-8.697308348358117</longitude>
+							<latitude>39.17903577618345</latitude>
+							<altitude>0</altitude>
+							<heading>-0.003843971105365016</heading>
+							<tilt>33.00868017188129</tilt>
+							<range>980.7729368470114</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin349</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.698833989757421,39.18136236121133,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>H1534</name>
+						<description>6 abril 2024
+2,774ha</description>
+						<LookAt>
+							<longitude>-8.696789697280193</longitude>
+							<latitude>39.17945192930797</latitude>
+							<altitude>0</altitude>
+							<heading>0.00567632301118501</heading>
+							<tilt>33.29330977158379</tilt>
+							<range>866.710484461993</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.696491194484322,39.1799748609725,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>SALÕES</name>
+					<Placemark>
+						<name>H1534</name>
+						<description>6 abril 2024
+6,1 ha</description>
+						<LookAt>
+							<longitude>-8.69839142036159</longitude>
+							<latitude>39.18558382704469</latitude>
+							<altitude>0</altitude>
+							<heading>0.001583873707187908</heading>
+							<tilt>38.81987067534722</tilt>
+							<range>557.0747397766899</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.69997034381962,39.1879202310758,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Polígono sem título</name>
+						<description>3,464ha + 0,344 ha = 3,808ha+ 2,298ha =6,1 ha</description>
+						<styleUrl>#msn_ylw-pushpin0600</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.697233362679253,39.18750399810419,0 -8.701486851101642,39.18960810184749,0 -8.702160584697644,39.18870247215335,0 -8.700485876866901,39.18772107761804,0 -8.700545008038819,39.18756611227557,0 -8.697945953080289,39.18626233794472,0 -8.697233362679253,39.18750399810419,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>Salões</name>
+						<LookAt>
+							<longitude>-8.697674323168995</longitude>
+							<latitude>39.18799718718658</latitude>
+							<altitude>0</altitude>
+							<heading>0.0001401130074561604</heading>
+							<tilt>34.52298286711586</tilt>
+							<range>805.6602232010672</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin03</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.698890660244935,39.18747591035731,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>FESTA MARCOLINO GERADOR TÓNICA</name>
+				<Folder>
+					<name>tonica</name>
+					<Placemark>
+						<name>Caneiras</name>
+						<description>5 ha</description>
+						<styleUrl>#msn_ylw-pushpin7223</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.698692798489434,39.19601565497688,0 -8.700236361232626,39.19486745838068,0 -8.697429363931681,39.19344462342733,0 -8.696349543542595,39.19462845904142,0 -8.698692798489434,39.19601565497688,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>chabouco</name>
+						<description>2 ha</description>
+						<styleUrl>#msn_ylw-pushpin7223</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.696920591022767,39.19393225715321,0 -8.694675943847546,39.19269534771389,0 -8.694196250597155,39.19335799984074,0 -8.696340334593012,39.19459430245619,0 -8.696920591022767,39.19393225715321,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>H1534</name>
+						<description>7 ha
+18 e 22 abril 2024</description>
+						<LookAt>
+							<longitude>-8.697017021494995</longitude>
+							<latitude>39.19592597839395</latitude>
+							<altitude>0</altitude>
+							<heading>0.005266549174594713</heading>
+							<tilt>26.09390185724942</tilt>
+							<range>1164.922275928265</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.697272999999999,39.194406,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>GERADOR TÓNICA</name>
+					<description>16 ha</description>
+					<Placemark>
+						<name>Tónica</name>
+						<LookAt>
+							<gx:TimeStamp><when>2023-04-27</when>
+</gx:TimeStamp>
+							<gx:ViewerOptions>
+								<gx:option name="historicalimagery"></gx:option>
+								<gx:option enabled="0" name="sunlight"></gx:option>
+								<gx:option enabled="0" name="streetview"></gx:option>
+							</gx:ViewerOptions>
+							<longitude>-8.695607278087385</longitude>
+							<latitude>39.19408510779585</latitude>
+							<altitude>0</altitude>
+							<heading>0.0008294114568469777</heading>
+							<tilt>29.9643151039403</tilt>
+							<range>1450.187002818786</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin94</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.697718341543549,39.19459480776369,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>tonica vinhas</name>
+						<description>6,1 ha</description>
+						<styleUrl>#msn_ylw-pushpin413</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.698297734468008,39.19640255821857,0 -8.699831342147267,39.19728944844079,0 -8.699726036913955,39.19734063225858,0 -8.699814079905771,39.19741178472031,0 -8.699897630775244,39.19747303959999,0 -8.701119214757103,39.19824803848799,0 -8.701869204703542,39.19788664838956,0 -8.70202585974468,39.19796575553551,0 -8.702677277964126,39.1977449228444,0 -8.702425954952185,39.19755921876219,0 -8.70286827320318,39.19720637903933,0 -8.705505815792405,39.1986337549518,0 -8.702860983265927,39.19720581278529,0 -8.703609449831612,39.19663340456592,0 -8.702451986381647,39.1975283617042,0 -8.701587210595646,39.1970846440648,0 -8.702374087615569,39.19642937390763,0 -8.701063459655717,39.19574232291858,0 -8.699967413773283,39.19517362334848,0 -8.699084940322679,39.1958210441997,0 -8.698297734468008,39.19640255821857,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>H1534</name>
+						<description>14 abril 2024
+6,1 ha</description>
+						<LookAt>
+							<longitude>-8.700554933302342</longitude>
+							<latitude>39.19558378253245</latitude>
+							<altitude>0</altitude>
+							<heading>0.01361074320217197</heading>
+							<tilt>33.32523227750773</tilt>
+							<range>885.9661365214589</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.700773315722818,39.19725933898373,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Gerador</name>
+						<LookAt>
+							<gx:TimeStamp><when>2023-04-27</when>
+</gx:TimeStamp>
+							<gx:ViewerOptions>
+								<gx:option name="historicalimagery"></gx:option>
+								<gx:option enabled="0" name="sunlight"></gx:option>
+								<gx:option enabled="0" name="streetview"></gx:option>
+							</gx:ViewerOptions>
+							<longitude>-8.695607278087385</longitude>
+							<latitude>39.19408510779585</latitude>
+							<altitude>0</altitude>
+							<heading>0.0008294114568469777</heading>
+							<tilt>29.9643151039403</tilt>
+							<range>1450.187002818786</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin94</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.700965679646698,39.19779509754981,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>Marcolino</name>
+					<Placemark>
+						<name>Marcolino</name>
+						<description>5,886 ha</description>
+						<styleUrl>#msn_ylw-pushpin17020</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.694464080818577,39.19241191969634,0 -8.694893881661402,39.19188873220084,0 -8.695130228478419,39.19135871398208,0 -8.69173443748516,39.18957394983763,0 -8.69117886326671,39.18988204523934,0 -8.690780162560859,39.19028154182697,0 -8.69303745285883,39.1916245006873,0 -8.692679825285275,39.19188239608302,0 -8.690549484380233,39.19072652157577,0 -8.690461960258672,39.190850406745,0 -8.694052426868687,39.19273981641859,0 -8.694249496038291,39.19264387615285,0 -8.694464080818577,39.19241191969634,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>H1534</name>
+						<description>5,886 ha
+14 abril 2024</description>
+						<LookAt>
+							<longitude>-8.694438147118859</longitude>
+							<latitude>39.19218331664085</latitude>
+							<altitude>0</altitude>
+							<heading>0.009956605858352362</heading>
+							<tilt>38.6839758551741</tilt>
+							<range>728.9341543317328</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.693359974204929,39.19122731166223,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Polígono sem título</name>
+						<description>2,75 ha</description>
+						<styleUrl>#msn_ylw-pushpin17020</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.697843512967726,39.19315912135534,0 -8.695036348081192,39.19180964315104,0 -8.694437402738801,39.19254699987612,0 -8.697031390124721,39.19392366045266,0 -8.697843512967726,39.19315912135534,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>H1534</name>
+						<description>12 abril 2024
+
+2,75 ha</description>
+						<LookAt>
+							<longitude>-8.695613820664626</longitude>
+							<latitude>39.1922981137587</latitude>
+							<altitude>0</altitude>
+							<heading>0.002696583760415581</heading>
+							<tilt>38.10449795210486</tilt>
+							<range>245.5878346194873</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.696067727684506,39.19275717852742,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Marcolino</name>
+						<LookAt>
+							<longitude>-8.693963139655025</longitude>
+							<latitude>39.19208895573646</latitude>
+							<altitude>0</altitude>
+							<heading>0.01025677728139771</heading>
+							<tilt>38.68292745477616</tilt>
+							<range>542.1946260026634</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin94</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.694526836129015,39.19199984847593,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>FESTA</name>
+					<Placemark>
+						<name>H1534</name>
+						<description>12 abril 2024
+2,896 ha</description>
+						<LookAt>
+							<longitude>-8.68863313451239</longitude>
+							<latitude>39.18931487842506</latitude>
+							<altitude>0</altitude>
+							<heading>0.01815462582354255</heading>
+							<tilt>33.64166963505421</tilt>
+							<range>703.3671663963216</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.688293968667221,39.18945304845971,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<description>2,896 ha</description>
+						<styleUrl>#msn_ylw-pushpin027</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.69025382241831,39.19091925139555,0 -8.690661659872678,39.19031472563718,0 -8.68912999616701,39.18943753968261,0 -8.689490961681688,39.18897632758965,0 -8.689178787637953,39.18880135770436,0 -8.688523559598039,39.18849009818334,0 -8.687198510332548,39.18784205769962,0 -8.686980789257149,39.18835087258274,0 -8.687352121347317,39.18857883037624,0 -8.687056173347839,39.18928689201881,0 -8.689053656861613,39.19029740907624,0 -8.69025382241831,39.19091925139555,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>Festa</name>
+						<LookAt>
+							<longitude>-8.685447217190482</longitude>
+							<latitude>39.18898177094022</latitude>
+							<altitude>0</altitude>
+							<heading>0.03116020886590627</heading>
+							<tilt>26.48072292046679</tilt>
+							<range>1045.569540738555</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin1010</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.689584720353086,39.19017761475794,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>TAPADÃO</name>
+				<Folder>
+					<name>Gregório</name>
+					<open>1</open>
+					<Placemark>
+						<name>Gregório</name>
+						<description>7 ha</description>
+						<styleUrl>#msn_ylw-pushpin003</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.693922251424974,39.18694757716738,0 -8.694464224290959,39.18634353373086,0 -8.694821767962239,39.18583298601142,0 -8.694517646209409,39.18568413888384,0 -8.694039990015421,39.18541475655596,0 -8.693288736925284,39.1850008562709,0 -8.692569959299256,39.18464724083751,0 -8.691626548076073,39.18418427546254,0 -8.690261219194101,39.18342565619154,0 -8.689688824054326,39.18411199313411,0 -8.689680265082494,39.18430455541211,0 -8.689736385112836,39.18459730024031,0 -8.689679494710767,39.18475391210224,0 -8.692253478629436,39.18608919398741,0 -8.693922251424974,39.18694757716738,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>Tapadão</name>
+					<open>1</open>
+					<Placemark>
+						<name>Tapadão</name>
+						<description>10,77ha</description>
+						<styleUrl>#msn_ylw-pushpin074</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.693903590950198,39.18695228118869,0 -8.689643524758401,39.184791485913,0 -8.688591404587035,39.18584544634638,0 -8.690611945737599,39.18694327881175,0 -8.69044594629216,39.18713238844383,0 -8.688435923547221,39.18604832599762,0 -8.687917622045564,39.18660324931385,0 -8.692226488145247,39.18896729503334,0 -8.693274579977681,39.18784246861473,0 -8.693903590950198,39.18695228118869,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+					<Placemark>
+						<name>Tapadão</name>
+						<LookAt>
+							<longitude>-8.690374618306253</longitude>
+							<latitude>39.18628668633329</latitude>
+							<altitude>0</altitude>
+							<heading>0.0002399258698597294</heading>
+							<tilt>42.22890462253312</tilt>
+							<range>643.3396210528254</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin2730</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.690980784485603,39.18677780884767,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>H1534</name>
+						<description>17,928 ha
+23, 25 e26 abril 24</description>
+						<LookAt>
+							<longitude>-8.690744993333569</longitude>
+							<latitude>39.18712089387226</latitude>
+							<altitude>0</altitude>
+							<heading>0.000107664139276374</heading>
+							<tilt>43.18678836131295</tilt>
+							<range>680.6643498863466</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.692285999999999,39.186838,0</coordinates>
+						</Point>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>tejo</name>
+					<Placemark>
+						<name>Kendras</name>
+						<open>1</open>
+						<description>26 abril 2024
+2,831 ha</description>
+						<LookAt>
+							<gx:TimeStamp><when>2023-04-27</when>
+</gx:TimeStamp>
+							<gx:ViewerOptions>
+								<gx:option name="historicalimagery"></gx:option>
+								<gx:option enabled="0" name="sunlight"></gx:option>
+								<gx:option enabled="0" name="streetview"></gx:option>
+							</gx:ViewerOptions>
+							<longitude>-8.688274405392731</longitude>
+							<latitude>39.18796621965476</latitude>
+							<altitude>0</altitude>
+							<heading>0.03718131038050049</heading>
+							<tilt>33.3453023877023</tilt>
+							<range>883.1896433273937</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</LookAt>
+						<styleUrl>#msn_ylw-pushpin28</styleUrl>
+						<Point>
+							<gx:drawOrder>1</gx:drawOrder>
+							<coordinates>-8.686106873132513,39.1884814756413,0</coordinates>
+						</Point>
+					</Placemark>
+					<Placemark>
+						<name>Tejo</name>
+						<open>1</open>
+						<description>2,831 ha</description>
+						<styleUrl>#msn_ylw-pushpin0271</styleUrl>
+						<Polygon>
+							<tessellate>1</tessellate>
+							<outerBoundaryIs>
+								<LinearRing>
+									<coordinates>
+										-8.686002336654399,39.18813998501511,0 -8.685338282170049,39.18795827431381,0 -8.684801321803619,39.18902619583712,0 -8.686136177725315,39.18963477560504,0 -8.687222008543324,39.1872633343448,0 -8.686632186778006,39.18699980216609,0 -8.686002336654399,39.18813998501511,0 
+									</coordinates>
+								</LinearRing>
+							</outerBoundaryIs>
+						</Polygon>
+					</Placemark>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>PROCOMPRA</name>
+			<Folder>
+				<name>Abade</name>
+				<Placemark>
+					<name>ABADE</name>
+					<LookAt>
+						<longitude>-8.805496400628332</longitude>
+						<latitude>39.05872372981899</latitude>
+						<altitude>0</altitude>
+						<heading>0.00440070212753875</heading>
+						<tilt>44.99910269825966</tilt>
+						<range>2964.224520254977</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin137</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.811455565270755,39.05981631397108,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>Abade</name>
+					<description>1412321576002  12.975 Ha (12,51ha líquidos)</description>
+					<styleUrl>#msn_ylw-pushpin267</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.816636427045307,39.06247896439508,0 -8.805297147860108,39.05548410848169,0 -8.804884386922808,39.05573284135104,0 -8.804260610122565,39.05529801747528,0 -8.803830286643255,39.05540397455913,0 -8.815823085510443,39.06334157545754,0 -8.816636427045307,39.06247896439508,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>SV9000</name>
+					<description>15 abril 2024
+folharobusta
+2 ha</description>
+					<LookAt>
+						<longitude>-8.807552511789773</longitude>
+						<latitude>39.05873035765137</latitude>
+						<altitude>0</altitude>
+						<heading>0.003208879456458477</heading>
+						<tilt>42.50785304840846</tilt>
+						<range>1567.389203593536</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin101</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.806053609200674,39.05663382199828,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>SV9018</name>
+					<description>3ha fradplanta
+16 e 17 abril 2024</description>
+					<LookAt>
+						<longitude>-8.805604081757235</longitude>
+						<latitude>39.06034459277637</latitude>
+						<altitude>0</altitude>
+						<heading>0.003651053240604813</heading>
+						<tilt>42.33431959377934</tilt>
+						<range>1928.351751110637</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin101</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.8073048466951,39.05737572050413,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>SV9000</name>
+					<description>2 ha
+plantigrou
+22 abril 2024</description>
+					<LookAt>
+						<gx:TimeStamp><when>2024-02-18</when>
+</gx:TimeStamp>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-8.808769165844307</longitude>
+						<latitude>39.0594674276708</latitude>
+						<altitude>0</altitude>
+						<heading>0.0009114144919657647</heading>
+						<tilt>43.67030901667204</tilt>
+						<range>1090.862566142479</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin1416</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.812698352433138,39.06028113239154,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>H1015</name>
+					<description>23 e 24 abril 2024
+relcampo
+5,5 ha</description>
+					<LookAt>
+						<gx:TimeStamp><when>2024-02-18</when>
+</gx:TimeStamp>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-8.808769165844307</longitude>
+						<latitude>39.0594674276708</latitude>
+						<altitude>0</altitude>
+						<heading>0.0009114144919657647</heading>
+						<tilt>43.67030901667204</tilt>
+						<range>1090.862566142479</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin1416</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.813517498695727,39.06158822132325,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
+				<name>Alemão</name>
+				<Placemark>
+					<name>Alemão</name>
+					<description>9,615 ha 1412339419001</description>
+					<styleUrl>#msn_ylw-pushpin5112</styleUrl>
+					<Polygon>
+						<tessellate>1</tessellate>
+						<outerBoundaryIs>
+							<LinearRing>
+								<coordinates>
+									-8.799604208044906,39.05886216657876,0 -8.799041909864689,39.05938213822036,0 -8.803065236552266,39.06384513408852,0 -8.803923940698535,39.0652164851374,0 -8.805888357592458,39.06842562649192,0 -8.807178572196712,39.06795857639234,0 -8.804726753920436,39.06487048051758,0 -8.799604208044906,39.05886216657876,0 
+								</coordinates>
+							</LinearRing>
+						</outerBoundaryIs>
+					</Polygon>
+				</Placemark>
+				<Placemark>
+					<name>SV9000</name>
+					<description>11 e 12 abril 2024
+4,615 ha
+folharobusta</description>
+					<LookAt>
+						<longitude>-8.801291628777401</longitude>
+						<latitude>39.06397168776789</latitude>
+						<altitude>0</altitude>
+						<heading>-0.005037227785649352</heading>
+						<tilt>37.31094758861442</tilt>
+						<range>1657.705116815969</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin149</styleUrl>
+					<Point>
+						<coordinates>-8.800068083987485,39.05992377465777,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>ALEMÃO</name>
+					<LookAt>
+						<longitude>-8.792133772670105</longitude>
+						<latitude>39.06364389013096</latitude>
+						<altitude>0</altitude>
+						<heading>1.097437988675729e-08</heading>
+						<tilt>44.99999999359559</tilt>
+						<range>3190.616836749329</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin284</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.801198521532447,39.0615087520773,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>SV9018</name>
+					<description>2 ha
+19 abril 2024
+fradplanta</description>
+					<LookAt>
+						<gx:TimeStamp><when>2023-04-27</when>
+</gx:TimeStamp>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-8.803352956620946</longitude>
+						<latitude>39.06470731961353</latitude>
+						<altitude>0</altitude>
+						<heading>0.006246837434550306</heading>
+						<tilt>34.3732832943808</tilt>
+						<range>776.0220014548554</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin101</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.805708851586138,39.06676681180961,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>SV9000</name>
+					<description>3 ha
+folharobusta
+19 e 20 abril 2024</description>
+					<LookAt>
+						<gx:TimeStamp><when>2023-04-27</when>
+</gx:TimeStamp>
+						<gx:ViewerOptions>
+							<gx:option name="historicalimagery"></gx:option>
+							<gx:option enabled="0" name="sunlight"></gx:option>
+							<gx:option enabled="0" name="streetview"></gx:option>
+						</gx:ViewerOptions>
+						<longitude>-8.803352956620946</longitude>
+						<latitude>39.06470731961353</latitude>
+						<altitude>0</altitude>
+						<heading>0.006246837434550306</heading>
+						<tilt>34.3732832943808</tilt>
+						<range>776.0220014548554</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#msn_ylw-pushpin841</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-8.804140919070106,39.06528728366298,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

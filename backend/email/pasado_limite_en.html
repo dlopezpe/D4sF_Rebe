@@ -1,0 +1,46 @@
+{% load i18n %}{% blocktrans %}
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+    <tr>
+        <td align="center" valign="top">
+            <table width="40%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td class="center" align="center" valign="top">
+                        <img with="100%" src="https://d4smartfarming.smartbits-es.com/imgMail/mail-cabecera.png" alt="cabecera">
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="center" align="left" valign="top">
+                        <div style="padding-left: 10px; padding-right: 10px">
+                        <br>
+                        <br><br>
+                        Good morning, this is an alert from Data4SmartFarming
+                        <br><br>
+                        The company {{enterprise_name}} has reached {{porcentaje}}% of your hectare limit
+                        <br><br>
+                        <strong>Company data:</strong>
+                        <br><br>
+                        <ul>
+                            <li><strong>Name: </strong>{{enterprise_name}}</li>
+                            <li><strong>CIF: </strong>{{cif}}</li>
+                            <li><strong>Contact No.: </strong>{{phone_number}}</li>
+                            <li><strong>Direction: </strong>{{direction}}</li>
+                            <li><strong>Hectares Available: </strong>{{hectares_avariable}}</li>
+                            <li><strong>Occupied Hectares: </strong>{{area_ocu}}</li>
+                        </ul>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="center" align="center" valign="top">
+                        <br><br>
+                        <br><br>
+                        <img with="100%" src="https://d4smartfarming.smartbits-es.com/imgMail/mail-footer.png" alt="cabecera">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+{% endblocktrans %}
+

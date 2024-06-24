@@ -1,0 +1,39 @@
+{% load i18n %}{% blocktrans %}
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+    <tr>
+        <td align="center" valign="top">
+            <table width="40%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td class="center" align="center" valign="top">
+                        <img with="100%" src="https://d4smartfarming.smartbits-es.com/imgMail/mail-cabecera.png" alt="cabecera">
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="center" align="left" valign="top">
+                        <div style="padding-left: 10px; padding-right: 10px">
+                        <br>
+                        <br><br>
+                        Good morning, this is an alert from Data4SmartFarming
+                        <br><br>
+                        Your business {{enterprise_name}} has reached the {{porcentaje}}% of your hectare limit.
+                        <br><br>
+                        We inform you that your limit is {{hectares_avariable}} hectares and you've been busy {{area_ocu}} hectares.
+                        <br><br>
+                        Si deseas aumentar este límite puedes ponerte en contacto con nosotros a través del mail soporte@d4smartfarming.com
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="center" align="center" valign="top">
+                        <br><br>
+                        <br><br>
+                        <img with="100%" src="https://d4smartfarming.smartbits-es.com/imgMail/mail-footer.png" alt="cabecera">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+{% endblocktrans %}
+

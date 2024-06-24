@@ -1,0 +1,44 @@
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+    <tr>
+        <td align="center" valign="top">
+            <table width="40%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td class="center" align="center" valign="top">
+                        <img with="100%" src="https://d4smartfarming.smartbits-es.com/imgMail/mail-cabecera.png"
+                            alt="cabecera">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td class="center" align="left" valign="top">
+                        <div style="padding-left: 10px; padding-right: 10px">
+                            <br>
+                            <br><br>
+                            El usuario {{user_email}} <br>
+                            ha cambiado el estado de la empresa : {{enterprise_name}}
+                            a {{enterprise_status}}
+                            <br><br>
+                            id de la empresa: {{enterprise_code}}
+                            <br><br>
+                            Fecha y hora del cambio: {{ fecha_hora}}
+                            <br><br>
+                            Información detallada: <br><br>
+                            Query: {{ crud }}
+                            <br><br>
+                            antiguo estado: {{ old_status }}<br><br>
+                            status actual: {{ new_status }}
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="center" align="center" valign="top">
+                        <br><br>
+                        <br><br>
+                        <img with="100%" src="https://d4smartfarming.smartbits-es.com/imgMail/mail-footer.png"
+                            alt="cabecera">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,39 @@
+2024-05-31 17:41:59 -- Linea 124 -- Usuario que solicita el informe: rebeca.espana@smartbits.es
+2024-05-31 17:41:59 -- Linea 125 -- Nombre del informe: Gráfico - 2024-5-31
+2024-05-31 17:41:59 -- Linea 126 -- Enterprise ID: 179f9db9-9e57-498c-b000-059c2127988b
+2024-05-31 17:41:59 -- Linea 127 -- Parcelas: Parcel object (27775) -> 003-165/548/168-LavadoPerez - UG16112
+Parcel object (27776) -> 004-165/548/169-LavadoPerez - UG16112
+
+2024-05-31 17:41:59 -- Linea 128 -- Capa: NDVI
+2024-05-31 17:41:59 -- Linea 129 -- Incluir nubes: True
+2024-05-31 17:41:59 -- Linea 130 -- Fecha de inicio: 2024-05-03
+2024-05-31 17:41:59 -- Linea 131 -- Fecha de fin: 2024-05-03
+2024-05-31 17:42:00 -- Linea 181 -- config={
+  "instance_id": "5c9f425a-f830-4164-8a6c-6059bcf1b7d3",
+  "sh_client_id": "33467c23-fada-4405-8a5b-33ee38169273",
+  "sh_client_secret": "&O97/<>sWmmUrI2KctxxVf9iCQi*~eN|:I6R%o6:",
+  "sh_base_url": "https://services.sentinel-hub.com",
+  "geopedia_wms_url": "https://service.geopedia.world",
+  "geopedia_rest_url": "https://www.geopedia.world/rest",
+  "aws_access_key_id": "",
+  "aws_secret_access_key": "",
+  "aws_metadata_url": "https://roda.sentinel-hub.com",
+  "aws_s3_l1c_bucket": "sentinel-s2-l1c",
+  "aws_s3_l2a_bucket": "sentinel-s2-l2a",
+  "opensearch_url": "http://opensearch.sentinel-hub.com/resto/api/collections/Sentinel2",
+  "max_wfs_records_per_query": 100,
+  "max_opensearch_records_per_query": 500,
+  "max_download_attempts": 4,
+  "download_sleep_time": 5,
+  "download_timeout_seconds": 120,
+  "number_of_download_processes": 1
+}
+2024-05-31 17:42:00 -- Linea 209 -- ----------------------------------------------------------------
+2024-05-31 17:42:00 -- Linea 210 -- ----------------------------------------------------------------
+2024-05-31 17:42:00 -- Linea 211 -- Inicio del proceso de generación de imágenes
+2024-05-31 17:42:00 -- Linea 235 -- ----------------------------------------------------------------
+2024-05-31 17:42:00 -- Linea 236 -- ----------------------------------------------------------------
+2024-05-31 17:42:00 -- Linea 237 -- Parcela: 003-165/548/168-LavadoPerez - UG16112
+2024-05-31 17:42:00 -- Linea 238 -- bbox=-6.694943904876709,38.91401440209818,-6.6930341720581055,38.916777534644496
+2024-05-31 17:42:00 -- Linea 239 -- geometry_string=POLYGON ((-6.693291664123535 38.91401440209818, -6.6930341720581055 38.91661058104896, -6.694654226303101 38.916777534644496, -6.694943904876709 38.91414796989214, -6.694519916355942 38.91412194490678, -6.694318750679825 38.91524265268539, -6.6941014917496195 38.91522387001927, -6.693908372700546 38.915205087348184, -6.693884232819412 38.91504230399054, -6.693956652462815 38.91494212943102, -6.693966710747101 38.914935868530584, -6.694012978852609 38.91493430330184, -6.694318750679825 38.91498595581821, -6.694487729847763 38.91410316194406, -6.693291664123535 38.91401440209818))
+2024-05-31 17:42:00 -- Linea 243 -- -------- NDVI -------
