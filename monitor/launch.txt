@@ -1,0 +1,12 @@
+Para lanzar el servidor local
+    cd..
+    .\monitor_env\Scripts\activate
+    cd monitor
+    python manage.py runserver 8001
+
+Para publicar, subimos el contenido al 177 (docker) a la carpeta D:\00-Proyectos\d4smartfarmingmonitor
+    Copiar dentro de docker abriendo terminal en la carpeta anterior con este comando:
+    Archivo:
+        docker cp /moisturemonitor/views.py 34b973511df6:/D:/00-Proyectos/d4smartfarmingmonitor/D:/00-Proyectos/d4smartfarmingmonitor/moisturemonitor/
+    Carpeta
+        docker cp /ndvimonitor 34b973511df6:/D:/00-Proyectos/d4smartfarmingmonitor/D:/00-Proyectos/d4smartfarmingmonitor/ndvimonitor/

@@ -1,0 +1,7 @@
+Para lanzar el servidor en local 
+    npm run serve
+
+Para hacer el build:
+    Copiar primero .env.real en .env
+    npm run build
+    Subir la carpeta dist al servidor ftp

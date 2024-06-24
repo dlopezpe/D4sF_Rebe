@@ -1,0 +1,67 @@
+{
+  "name": "dataforsmartfarming",
+  "version": "0.1.4",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@carbon/vue": "^2.26.0",
+    "@turf/turf": "^5.1.6",
+    "axios": "^0.19.2",
+    "chart.js": "^2.9.3",
+    "colors": "^1.4.0",
+    "core-js": "^3.6.4",
+    "js-cookie": "^2.2.1",
+    "leaflet": "^1.6.0",
+    "leaflet-bing-layer": "^3.3.1",
+    "leaflet-boundary-canvas": "^1.0.0",
+    "leaflet-geotiff": "^0.2.0",
+    "leaflet-image-transform": "0.0.1",
+    "leaflet.wms": "^0.2.0",
+    "pbkdf2-sha256": "^1.1.1",
+    "proj4": "^2.6.2",
+    "request": "^2.88.2",
+    "vue": "^2.7.14",
+    "vue-browser-geolocation": "^1.8.0",
+    "vue-chartjs": "^3.5.0",
+    "vue-debug": "0.0.1",
+    "vue-i18n": "^8.22.0",
+    "vue-router": "^3.1.6",
+    "vue-session": "^1.0.0",
+    "vue2-google-maps": "^0.10.7",
+    "vuelayers": "^0.11.26",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-eslint": "~4.3.0",
+    "@vue/cli-plugin-router": "^4.3.1",
+    "@vue/cli-service": "~4.3.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
