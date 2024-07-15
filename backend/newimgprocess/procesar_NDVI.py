@@ -200,7 +200,9 @@ def ndviImgT2(serializer, email_user, name_user, uid):
                 #Obtenemos los datos de la parcela en base de datos
                 parcel = Parcel.objects.get(pk=int(id_parcela))
                 nombreParcela = parcel.name
+                descripcionParcela = parcel.description
                 polygon = GEOSGeometry(parcel.polygon)
+                print(polygon)
                 nombreJson = str(id_parcela) + '.json'
                 file = open(settings.PARCEL_FOLDER + nombreJson, 'w')
                 file.write(polygon.geojson)
@@ -209,14 +211,17 @@ def ndviImgT2(serializer, email_user, name_user, uid):
 
 
                 geometry_string = str(polygon.wkt)
+                print(geometry_string)
                 #areaCrud = polygon.area
                 #area = float(decimal.Context(prec=3).create_decimal(float(str(areaCrud)[:10])))
                 area = parcel.area
                 bbox = BBox(polygon.extent, crs=CRS.WGS84)
+                print(bbox)
                 
                 registro_log("separador")
                 registro_log("separador")
                 registro_log("Parcela: " + nombreParcela)
+                registro_log("Descripcion: " + descripcionParcela)
                 registro_log("bbox="+str(bbox))
                 registro_log("geometry_string="+str(geometry_string))
                 
@@ -520,7 +525,7 @@ def ndviImgT2(serializer, email_user, name_user, uid):
                         arrResult = {
                             idJson: {"img": nombreArchivo, "totalPixeles": total_pixeles,
                                     "fecha": fechaImagen,
-                                    "nombre": nombreParcela, "area": area,
+                                    "nombre": nombreParcela, "descripcion": descripcionParcela, "area": area,
                                     "azules": total_pixeles_azul, "amarillos": total_pixeles_amarillo,
                                     "rojos": total_pixeles_rojo, "verdes": total_pixeles_verde,
                                     "nubes": total_pixeles_nubes}} 

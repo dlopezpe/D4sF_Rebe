@@ -137,87 +137,94 @@ def json2xlsx(jsonFile, xlsxFile, capa, tipo = 0):
         worksheet.write_string(0, 0, "", header_format)
         worksheet.merge_range(1, 0, 1, 14, "Todos los valores son porcentajes entre 0% - 100% - All values ​​are percentages between 0% - 100%", header_format)
         worksheet.write_string(3, 0, names, header_format)
-        worksheet.write_string(3, 1, "Rojo Alto", header_formatRA)
-        worksheet.write_string(3, 2, "Rojo Medio", header_formatRM)
-        worksheet.write_string(3, 3, "Rojo Bajo", header_formatRB)
+        worksheet.write_string(3, 1, "Descripcion", header_format)
+        worksheet.write_string(3, 2, "Rojo Alto", header_formatRA)
+        worksheet.write_string(3, 3, "Rojo Medio", header_formatRM)
+        worksheet.write_string(3, 4, "Rojo Bajo", header_formatRB)
 
-        worksheet.write_string(3, 5, "Amarillo Alto", header_formatAA)
-        worksheet.write_string(3, 6, "Amarillo Medio", header_formatAM)
-        worksheet.write_string(3, 7, "Amarillo Bajo", header_formatAB)
+        worksheet.write_string(3, 6, "Amarillo Alto", header_formatAA)
+        worksheet.write_string(3, 7, "Amarillo Medio", header_formatAM)
+        worksheet.write_string(3, 8, "Amarillo Bajo", header_formatAB)
 
-        worksheet.write_string(3, 9, "Azul Alto", header_formatAzA)
-        worksheet.write_string(3, 10, "Azul Medio", header_formatAzM)
-        worksheet.write_string(3, 11, "Azul Bajo", header_formatAzB)
+        worksheet.write_string(3, 10, "Azul Alto", header_formatAzA)
+        worksheet.write_string(3, 11, "Azul Medio", header_formatAzM)
+        worksheet.write_string(3, 12, "Azul Bajo", header_formatAzB)
 
-        worksheet.write_string(3, 13, "Verde Alto", header_formatVA)
-        worksheet.write_string(3, 14, "Verde Medio", header_formatVM)
+        worksheet.write_string(3, 14, "Verde Alto", header_formatVA)
+        worksheet.write_string(3, 15, "Verde Medio", header_formatVM)
 
-        worksheet.write_string(3, 16, "Nubes", header_formatRA)
+        worksheet.write_string(3, 17, "Nubes", header_formatRA)
         # Segunda pag
         worksheet2.write_string(0, 0, "", header_format)
         worksheet2.merge_range(1, 0, 1, 14, "Los datos son en número de hectáreas - The data are in number of hectares", header_format)
         worksheet2.write_string(3, 0, names, header_format)
-        worksheet2.write_string(3, 1, "Rojo Alto", header_formatRA)
-        worksheet2.write_string(3, 2, "Rojo Medio", header_formatRM)
-        worksheet2.write_string(3, 3, "Rojo Bajo", header_formatRB)
+        worksheet2.write_string(3, 1, "Descripcion", header_format)
+        worksheet2.write_string(3, 2, "Rojo Alto", header_formatRA)
+        worksheet2.write_string(3, 3, "Rojo Medio", header_formatRM)
+        worksheet2.write_string(3, 4, "Rojo Bajo", header_formatRB)
 
-        worksheet2.write_string(3, 5, "Amarillo Alto", header_formatAA)
-        worksheet2.write_string(3, 6, "Amarillo Medio", header_formatAM)
-        worksheet2.write_string(3, 7, "Amarillo Bajo", header_formatAB)
+        worksheet2.write_string(3, 6, "Amarillo Alto", header_formatAA)
+        worksheet2.write_string(3, 7, "Amarillo Medio", header_formatAM)
+        worksheet2.write_string(3, 8, "Amarillo Bajo", header_formatAB)
 
-        worksheet2.write_string(3, 9, "Azul Alto", header_formatAzA)
-        worksheet2.write_string(3, 10, "Azul Medio", header_formatAzM)
-        worksheet2.write_string(3, 11, "Azul Bajo", header_formatAzB)
+        worksheet2.write_string(3, 10, "Azul Alto", header_formatAzA)
+        worksheet2.write_string(3, 11, "Azul Medio", header_formatAzM)
+        worksheet2.write_string(3, 12, "Azul Bajo", header_formatAzB)
 
-        worksheet2.write_string(3, 13, "Verde Alto", header_formatVA)
-        worksheet2.write_string(3, 14, "Verde Medio", header_formatVM)
+        worksheet2.write_string(3, 14, "Verde Alto", header_formatVA)
+        worksheet2.write_string(3, 15, "Verde Medio", header_formatVM)
 
-        worksheet.write_string(3, 16, "Nubes", header_formatRA)
+        worksheet.write_string(3, 17, "Nubes", header_formatRA)
 
         col = 0
         valueNubes = ''
         for item in pj:
+            descripcion = ''
+            if 'descripcion' in pj[item]:
+                descripcion = pj[item]['descripcion']
             worksheet.write_string(item+4, col, pj[item]['nombre']+' - '+pj[item]['fecha'], bold)
-            worksheet.write_number(item+4, col+1, float(pj[item]['rojos']['altos']['porcent']))
-            worksheet.write_number(item+4, col+2, float(pj[item]['rojos']['medios']['porcent']))
-            worksheet.write_number(item+4, col+3, float(pj[item]['rojos']['bajos']['porcent']))
+            worksheet.write_string(item+4, col+1, descripcion)
+            worksheet.write_number(item+4, col+2, float(pj[item]['rojos']['altos']['porcent']))
+            worksheet.write_number(item+4, col+3, float(pj[item]['rojos']['medios']['porcent']))
+            worksheet.write_number(item+4, col+4, float(pj[item]['rojos']['bajos']['porcent']))
 
-            worksheet.write_number(item+4, col+5, float(pj[item]['amarillos']['altos']['porcent']))
-            worksheet.write_number(item+4, col+6, float(pj[item]['amarillos']['medios']['porcent']))
-            worksheet.write_number(item+4, col+7, float(pj[item]['amarillos']['bajos']['porcent']))
+            worksheet.write_number(item+4, col+6, float(pj[item]['amarillos']['altos']['porcent']))
+            worksheet.write_number(item+4, col+7, float(pj[item]['amarillos']['medios']['porcent']))
+            worksheet.write_number(item+4, col+8, float(pj[item]['amarillos']['bajos']['porcent']))
 
-            worksheet.write_number(item+4, col+9, float(pj[item]['azules']['altos']['porcent']))
-            worksheet.write_number(item+4, col+10, float(pj[item]['azules']['medios']['porcent']))
-            worksheet.write_number(item+4, col+11, float(pj[item]['azules']['bajos']['porcent']))
+            worksheet.write_number(item+4, col+10, float(pj[item]['azules']['altos']['porcent']))
+            worksheet.write_number(item+4, col+11, float(pj[item]['azules']['medios']['porcent']))
+            worksheet.write_number(item+4, col+12, float(pj[item]['azules']['bajos']['porcent']))
 
-            worksheet.write_number(item+4, col+13, float(pj[item]['verdes']['altos']['porcent']))
-            worksheet.write_number(item+4, col+14, float(pj[item]['verdes']['medios']['porcent']))
+            worksheet.write_number(item+4, col+14, float(pj[item]['verdes']['altos']['porcent']))
+            worksheet.write_number(item+4, col+15, float(pj[item]['verdes']['medios']['porcent']))
             # D4SF-86
            
             if pj[item]['nubes']['porcent'] == "n/a":
-                worksheet.write_string(item + 4, col + 16, str(pj[item]['nubes']['porcent']))
+                worksheet.write_string(item + 4, col + 17, str(pj[item]['nubes']['porcent']))
             else:
-                worksheet.write_number(item + 4, col + 16, float(pj[item]['nubes']['porcent']))
+                worksheet.write_number(item + 4, col + 17, float(pj[item]['nubes']['porcent']))
             
             #worksheet.write_number(item + 4, col + 16, float(pj[item]['nubes']['porcent']))
             #worksheet.write_string(item + 4, col + 16, str(pj[item]['nubes']['porcent']))
 
             #pag 2
             worksheet2.write_string(item+4, col, pj[item]['nombre']+' - '+pj[item]['fecha'], bold)
-            worksheet2.write_number(item+4, col+1, float(pj[item]['rojos']['altos']['area_porcent']))
-            worksheet2.write_number(item+4, col+2, float(pj[item]['rojos']['medios']['area_porcent']))
-            worksheet2.write_number(item+4, col+3, float(pj[item]['rojos']['bajos']['area_porcent']))
+            worksheet2.write_string(item+4, col+1, descripcion)
+            worksheet2.write_number(item+4, col+2, float(pj[item]['rojos']['altos']['area_porcent']))
+            worksheet2.write_number(item+4, col+3, float(pj[item]['rojos']['medios']['area_porcent']))
+            worksheet2.write_number(item+4, col+4, float(pj[item]['rojos']['bajos']['area_porcent']))
 
-            worksheet2.write_number(item+4, col+5, float(pj[item]['amarillos']['altos']['area_porcent']))
-            worksheet2.write_number(item+4, col+6, float(pj[item]['amarillos']['medios']['area_porcent']))
-            worksheet2.write_number(item+4, col+7, float(pj[item]['amarillos']['bajos']['area_porcent']))
+            worksheet2.write_number(item+4, col+6, float(pj[item]['amarillos']['altos']['area_porcent']))
+            worksheet2.write_number(item+4, col+7, float(pj[item]['amarillos']['medios']['area_porcent']))
+            worksheet2.write_number(item+4, col+8, float(pj[item]['amarillos']['bajos']['area_porcent']))
 
-            worksheet2.write_number(item+4, col+9, float(pj[item]['azules']['altos']['area_porcent']))
-            worksheet2.write_number(item+4, col+10, float(pj[item]['azules']['medios']['area_porcent']))
-            worksheet2.write_number(item+4, col+11, float(pj[item]['azules']['bajos']['area_porcent']))
+            worksheet2.write_number(item+4, col+10, float(pj[item]['azules']['altos']['area_porcent']))
+            worksheet2.write_number(item+4, col+11, float(pj[item]['azules']['medios']['area_porcent']))
+            worksheet2.write_number(item+4, col+12, float(pj[item]['azules']['bajos']['area_porcent']))
 
-            worksheet2.write_number(item+4, col+13, float(pj[item]['verdes']['altos']['area_porcent']))
-            worksheet2.write_number(item+4, col+14, float(pj[item]['verdes']['medios']['area_porcent']))
+            worksheet2.write_number(item+4, col+14, float(pj[item]['verdes']['altos']['area_porcent']))
+            worksheet2.write_number(item+4, col+15, float(pj[item]['verdes']['medios']['area_porcent']))
             
             # D4SF-86
             """
@@ -227,9 +234,9 @@ def json2xlsx(jsonFile, xlsxFile, capa, tipo = 0):
             worksheet2.write_number(item + 4, col + 16, nubes_float)
             """
             if pj[item]['nubes']['porcent'] == "n/a":
-                worksheet2.write_string(item + 4, col + 16, str(pj[item]['nubes']['porcent']))
+                worksheet2.write_string(item + 4, col + 17, str(pj[item]['nubes']['porcent']))
             else:
-                worksheet2.write_number(item + 4, col + 16, float(pj[item]['nubes']['porcent']))
+                worksheet2.write_number(item + 4, col + 17, float(pj[item]['nubes']['porcent']))
 
             #worksheet2.write_string(item + 4, col + 16, str(pj[item]['nubes']['porcent']))
             
@@ -282,55 +289,61 @@ def json2xlsx(jsonFile, xlsxFile, capa, tipo = 0):
         worksheet.write_string(0, 0, "", header_format)
         worksheet.merge_range(1, 0, 1, 14, "Todos los valores son porcentajes entre 0% - 100% - All values ​​are percentages between 0% - 100%", header_format)
         worksheet.write_string(3, 0, names, header_format)
-
-        worksheet.write_string(3, 1, "Rojo/Naranja", header_formatNaranga)
-        worksheet.write_string(3, 2, "Amarillo", header_formatAmarillo)
-        worksheet.write_string(3, 3, "Verde", header_formatVerde)
-        worksheet.write_string(3, 4, "Azul Claro", header_formatAzulClaro)
-        worksheet.write_string(3, 5, "Azul Medio", header_formatAzulMedio)
-        worksheet.write_string(3, 6, "Azul Oscuro", header_formatAzulOscuro)
-        worksheet.write_string(3, 8, "Nubes", header_formatRA)
+        worksheet.write_string(3, 1, "Descripcion", header_format)
+        worksheet.write_string(3, 2, "Rojo/Naranja", header_formatNaranga)
+        worksheet.write_string(3, 3, "Amarillo", header_formatAmarillo)
+        worksheet.write_string(3, 4, "Verde", header_formatVerde)
+        worksheet.write_string(3, 5, "Azul Claro", header_formatAzulClaro)
+        worksheet.write_string(3, 6, "Azul Medio", header_formatAzulMedio)
+        worksheet.write_string(3, 7, "Azul Oscuro", header_formatAzulOscuro)
+        worksheet.write_string(3, 9, "Nubes", header_formatRA)
         #pag 2
         worksheet2.write_string(0, 0, "", header_format)
         worksheet2.merge_range(1, 0, 1, 14, "", header_format)
         worksheet2.write_string(3, 0, names, header_format)
-
-        worksheet2.write_string(3, 1, "Rojo/Naranja", header_formatNaranga)
-        worksheet2.write_string(3, 2, "Amarillo", header_formatAmarillo)
-        worksheet2.write_string(3, 3, "Verde", header_formatVerde)
-        worksheet2.write_string(3, 4, "Azul Claro", header_formatAzulClaro)
-        worksheet2.write_string(3, 5, "Azul Medio", header_formatAzulMedio)
-        worksheet2.write_string(3, 6, "Azul Oscuro", header_formatAzulOscuro)
-        worksheet2.write_string(3, 8, "Nubes", header_formatRA)
+        worksheet2.write_string(3, 1, "Descripcion", header_format)
+        worksheet2.write_string(3, 2, "Rojo/Naranja", header_formatNaranga)
+        worksheet2.write_string(3, 3, "Amarillo", header_formatAmarillo)
+        worksheet2.write_string(3, 4, "Verde", header_formatVerde)
+        worksheet2.write_string(3, 5, "Azul Claro", header_formatAzulClaro)
+        worksheet2.write_string(3, 6, "Azul Medio", header_formatAzulMedio)
+        worksheet2.write_string(3, 7, "Azul Oscuro", header_formatAzulOscuro)
+        worksheet2.write_string(3, 9, "Nubes", header_formatRA)
         col = 0
         for item in pj:
+            descripcion = ''
+            if 'descripcion' in pj[item]:
+                descripcion = pj[item]['descripcion']
+                
             worksheet.write_string(item+4, col, pj[item]['nombre']+' - '+pj[item]['fecha'], bold)
-            worksheet.write_number(item+4, col+1, float(pj[item]['naranja']['porcent']))
-            worksheet.write_number(item+4, col+2, float(pj[item]['amarillo']['porcent']))
-            worksheet.write_number(item+4, col+3, float(pj[item]['verdes']['porcent']))
-            worksheet.write_number(item+4, col+4, float(pj[item]['azul_claro']['porcent']))
-            worksheet.write_number(item+4, col+5, float(pj[item]['azul_medio']['porcent']))
-            worksheet.write_number(item+4, col+6, float(pj[item]['azul_oscuro']['porcent']))
+            worksheet.write_string(item+4, col+1, descripcion)
+            worksheet.write_number(item+4, col+2, float(pj[item]['naranja']['porcent']))
+            worksheet.write_number(item+4, col+3, float(pj[item]['amarillo']['porcent']))
+            worksheet.write_number(item+4, col+4, float(pj[item]['verdes']['porcent']))
+            worksheet.write_number(item+4, col+5, float(pj[item]['azul_claro']['porcent']))
+            worksheet.write_number(item+4, col+6, float(pj[item]['azul_medio']['porcent']))
+            worksheet.write_number(item+4, col+7, float(pj[item]['azul_oscuro']['porcent']))
             # D4SF-86
             nubes_porcent_str = str(pj[item]['nubes']['porcent'])
             nubes_str = nubes_porcent_str.replace('.', ',')
             nubes_float = locale.atof(nubes_str)
-            worksheet.write_number(item + 4, col + 8, nubes_float)
+            worksheet.write_number(item + 4, col + 9, nubes_float)
 
             #pag 2
             worksheet2.write_string(item+4, col, pj[item]['nombre']+' - '+pj[item]['fecha'], bold)
-            worksheet2.write_number(item+4, col+1, float(pj[item]['naranja']['area_porcent']))
-            worksheet2.write_number(item+4, col+2, float(pj[item]['amarillo']['area_porcent']))
-            worksheet2.write_number(item+4, col+3, float(pj[item]['verdes']['area_porcent']))
-            worksheet2.write_number(item+4, col+4, float(pj[item]['azul_claro']['area_porcent']))
-            worksheet2.write_number(item+4, col+5, float(pj[item]['azul_medio']['area_porcent']))
-            worksheet2.write_number(item+4, col+6, float(pj[item]['azul_oscuro']['area_porcent']))
+            worksheet2.write_string(item+4, col+1, descripcion)
+            worksheet2.write_number(item+4, col+2, float(pj[item]['naranja']['area_porcent']))
+            worksheet2.write_number(item+4, col+3, float(pj[item]['amarillo']['area_porcent']))
+            worksheet2.write_number(item+4, col+4, float(pj[item]['verdes']['area_porcent']))
+            worksheet2.write_number(item+4, col+5, float(pj[item]['azul_claro']['area_porcent']))
+            worksheet2.write_number(item+4, col+6, float(pj[item]['azul_medio']['area_porcent']))
+            worksheet2.write_number(item+4, col+7, float(pj[item]['azul_oscuro']['area_porcent']))
             
             # D4SF-86
             if pj[item]['nubes']['porcent'] == "n/a":
-                worksheet2.write_string(item + 4, col + 8, str(pj[item]['nubes']['porcent']))
+                worksheet2.write_string(item + 4, col + 9, str(pj[item]['nubes']['porcent']))
             else:
-                worksheet2.write_number(item + 4, col + 8, float(pj[item]['nubes']['porcent']))
+                worksheet2.write_number(item + 4, col + 9, float(pj[item]['nubes']['porcent']))
 
             
             """

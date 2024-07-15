@@ -216,6 +216,7 @@ def procesarMOISTURE(serializer, email_user, name_user, uid,request={}):
                 #Obtenemos los datos de la parcela en base de datos
                 parcel = Parcel.objects.get(pk=int(id_parcela))
                 nombreParcela = parcel.name
+                descripcionParcela = parcel.description
                 polygon = GEOSGeometry(parcel.polygon)
                 nombreJson = str(id_parcela) + '.json'
                 file = open(settings.PARCEL_FOLDER + nombreJson, 'w')
@@ -478,7 +479,7 @@ def procesarMOISTURE(serializer, email_user, name_user, uid,request={}):
                         idJson = id_parcela+'_'+str(idx)
                         arrResult = {
                             idJson: {"img": nombreArchivo, "totalPixeles": totalPixDetectados, "fecha": fechaImagen,
-                                    "nombre": nombreParcela, "area": area, "naranja": total_pixeles_naranja,
+                                    "nombre": nombreParcela, "descripcion" : descripcionParcela, "area": area, "naranja": total_pixeles_naranja,
                                     "amarillo": total_pixeles_amarillo, "verdes": total_pixeles_verde,
                                     "azul_claro": total_pixeles_a_claro, "azul_medio": total_pixeles_a_medio,
                                     "azul_oscuro": total_pixeles_a_oscuro, "nubes": total_pixeles_nubes}}
