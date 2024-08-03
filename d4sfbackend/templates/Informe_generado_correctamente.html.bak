@@ -1,0 +1,56 @@
+{% load i18n %}
+<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+    <tr>
+        <td align="center" valign="top">
+            <table width="40%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td class="center" align="center" valign="top">
+                        <img with="100%" src="https://d4smartfarming.smartbits-es.com/imgMail/mail-cabecera.png" alt="cabecera">
+                    </td>
+                </tr>
+                
+                <tr>
+                    <td class="center" align="left" valign="top">
+                        <div style="padding-left: 10px; padding-right: 10px">
+                            <br>
+                            <br><br>
+                                Hola {{nombre_user}},
+                            <br><br>
+                                Tu informe <strong>{{nombre_informe}}</strong> se ha generado.
+                            <br><br>
+                                Puedes visitar el informe en la plataforma en la sección <strong>Gráficos > Gráficos anteriores</strong>
+                            <br><br>
+                                <img with="100%" src="data:image/png;base64, {{img_plot}}" alt="cabecera">
+                            <br><br>
+                                {% if parcels_err|length > 0 %}
+                                    No se han podido generar informe de las siguentes parcela/s-fecha/s:
+                                    <br><br>
+                                    {% for parcela in parcels_err %}
+                                        <li>{{ parcela.nombre_parcela }} - {{ parcela.fecha }}</li>
+                                    {% endfor %}
+                                    <br><br>
+                                    Se le ha envíado una notificación automática al soporte técnico para evaluar la generación del informe,
+                                    <br><br>
+                                    Puede consultar estas parcela/s que faltan en el mapa de la plataforma.
+                                {% endif %}
+                            <br><br>
+                                Para cualquier duda o consulta sobre tu informe puedes ponerte en contacto con nosotros a través del mail soporte@d4smartfarming.com
+                            <br><br>
+                                Un cordial saludo,
+                            <br>
+                                Equipo de D4SmartFarming
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="center" align="center" valign="top">
+                        <br><br>
+                        <br><br>
+                        <img with="100%" src="https://d4smartfarming.smartbits-es.com/imgMail/mail-footer.png" alt="cabecera">
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+

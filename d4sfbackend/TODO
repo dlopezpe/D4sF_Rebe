@@ -1,0 +1,12 @@
+Refactor imgprocess y newimgprocess
+jsontoexcel.py
+procesadoImagenesMoisture.poy
+procesadoImagenesNVDI.py
+json2plot.py
+procesar_MOISTURE_INDEX.py
+procesar_NVDI.py
+viewsets.py
+
+Refactor parcelas hacía adelante
+
+Dockerizar y refactorizar app front y monitor

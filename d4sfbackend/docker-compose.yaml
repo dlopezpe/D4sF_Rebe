@@ -1,0 +1,57 @@
+version: "3.8"
+
+services:
+  postgres:
+    image: ${POSTGIS_IMAGE} # use latest official postgres+postgis
+    env_file:
+      - devops/dev/.env.dev  # fichero de entorno para desarrollo/local
+    restart: always
+    environment:
+      - POSTGRES_DB=${POSTGRES_DB}
+      - POSTGRES_USER=${POSTGRES_USER}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+      - TZ=UTC  # Establecer la zona horaria a UTC
+    ports:
+      - ${POSTGRES_PORT}:5432
+    volumes:
+      - ds4fpg-data:/var/lib/postgresql/data/
+
+  pgadmin:
+    image: ${PGADMIN_IMAGE}
+    env_file:
+      - devops/dev/.env.dev  # fichero de entorno para desarrollo/local
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_DEFAULT_EMAIL}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_DEFAULT_PASSWORD}
+      PGADMIN_LISTEN_PORT: ${PGADMIN_LISTEN_PORT}
+    ports:
+      - ${PGADMIN_PORT}:${PGADMIN_LISTEN_PORT}
+    volumes:
+      - ds4fpgadmin-data:/var/lib/pgadmin
+    depends_on:
+      - postgres
+
+  web:
+     container_name: d4sfapp
+     build:
+       context: .
+       dockerfile: Dockerfile
+       args:
+        ENVIRONMENT: dev
+     environment:
+      PYTHONPATH: "/d4sfbackend"
+      TZ: UTC  # Establece la zona horaria del contenedor Docker a UTC
+     env_file:
+       - devops/dev/.env.dev  # fichero de entorno para desarrollo/local
+     volumes:
+       - .:/d4sfbackend
+       - ./logs:/var/log/d4sfbackend  # Monta el directorio de logs en el contenedor
+     command: python manage.py runserver 0.0.0.0:8000
+     ports:
+       - "8000:8000"
+     depends_on:
+       - postgres
+
+volumes:
+  ds4fpg-data:
+  ds4fpgadmin-data:

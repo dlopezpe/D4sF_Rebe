@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Ejecuta logrotate con la configuración especificada
+/usr/sbin/logrotate /etc/logrotate.conf
+
+# Otro comando si es necesario
